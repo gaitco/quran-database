@@ -96,6 +96,27 @@ Ayah-by-ayah translations (835,624 rows — 6,236 ayahs × 134 editions).
 
 ## Setup
 
+### Web reader
+
+The dependency-free reader in `docs/` displays the complete Arabic Quran using
+the database's 604-page mapping. Start it locally with PHP:
+
+```bash
+php -S localhost:8000 -t docs
+```
+
+Then visit <http://localhost:8000>. Regenerate its compact JSON data directly
+from the bundled SQLite archive and run its checks with:
+
+```bash
+python3 scripts/export_web_data.py
+python3 -m unittest discover -s tests -v
+```
+
+The deployment workflow publishes `docs/` to GitHub Pages after changes reach
+`main`. Repository maintainers must select **GitHub Actions** as the Pages source
+once under **Settings → Pages**.
+
 ### MySQL
 
 1. Extract the SQL file:

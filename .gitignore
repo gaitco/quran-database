@@ -1,2 +1,10 @@
 # Data
 output/
+
+# Locally generated databases and Python files
+/quran.sql
+/quran.db
+.env
+.venv/
+__pycache__/
+*.py[cod]

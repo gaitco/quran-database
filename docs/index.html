@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="قارئ بسيط للقرآن الكريم صفحةً صفحة">
+  <title>القرآن الكريم</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="toolbar">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">۞</span>
+      <div><h1>القرآن الكريم</h1><p>قارئ الصفحات</p></div>
+    </div>
+    <nav aria-label="Page navigation">
+      <button id="previous" type="button" aria-label="Previous page">Previous</button>
+      <label for="page-select">Page</label>
+      <select id="page-select" aria-label="Choose page"></select>
+      <button id="next" type="button" aria-label="Next page">Next</button>
+    </nav>
+  </header>
+
+  <main>
+    <p id="status" role="status">جارٍ تحميل القرآن الكريم…</p>
+    <article id="mushaf-page" class="mushaf-page" lang="ar" dir="rtl" hidden>
+      <aside class="page-meta page-meta-right" aria-label="رقم الجزء">
+        <span>الجزء</span><strong id="juz-number"></strong>
+      </aside>
+      <aside class="page-meta page-meta-left" aria-label="رقم ربع الحزب">
+        <span>ربع الحزب</span><strong id="rub-number"></strong>
+      </aside>
+      <div id="page-content"></div>
+      <footer id="page-number" class="page-number"></footer>
+    </article>
+  </main>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
