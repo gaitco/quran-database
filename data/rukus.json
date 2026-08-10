@@ -1,0 +1,5587 @@
+{
+  "source": "Quran.com API v4 verses metadata",
+  "source_endpoint": "https://api.quran.com/api/v4/verses/by_page/{page}",
+  "ruku_count": 558,
+  "rukus": [
+    {
+      "id": 1,
+      "start_verse_id": 1,
+      "start_verse_key": "1:1",
+      "end_verse_id": 7,
+      "end_verse_key": "1:7",
+      "start_page": 1,
+      "end_page": 1,
+      "juz": 1
+    },
+    {
+      "id": 2,
+      "start_verse_id": 8,
+      "start_verse_key": "2:1",
+      "end_verse_id": 14,
+      "end_verse_key": "2:7",
+      "start_page": 2,
+      "end_page": 3,
+      "juz": 1
+    },
+    {
+      "id": 3,
+      "start_verse_id": 15,
+      "start_verse_key": "2:8",
+      "end_verse_id": 27,
+      "end_verse_key": "2:20",
+      "start_page": 3,
+      "end_page": 4,
+      "juz": 1
+    },
+    {
+      "id": 4,
+      "start_verse_id": 28,
+      "start_verse_key": "2:21",
+      "end_verse_id": 36,
+      "end_verse_key": "2:29",
+      "start_page": 4,
+      "end_page": 5,
+      "juz": 1
+    },
+    {
+      "id": 5,
+      "start_verse_id": 37,
+      "start_verse_key": "2:30",
+      "end_verse_id": 46,
+      "end_verse_key": "2:39",
+      "start_page": 6,
+      "end_page": 7,
+      "juz": 1
+    },
+    {
+      "id": 6,
+      "start_verse_id": 47,
+      "start_verse_key": "2:40",
+      "end_verse_id": 53,
+      "end_verse_key": "2:46",
+      "start_page": 7,
+      "end_page": 7,
+      "juz": 1
+    },
+    {
+      "id": 7,
+      "start_verse_id": 54,
+      "start_verse_key": "2:47",
+      "end_verse_id": 66,
+      "end_verse_key": "2:59",
+      "start_page": 7,
+      "end_page": 9,
+      "juz": 1
+    },
+    {
+      "id": 8,
+      "start_verse_id": 67,
+      "start_verse_key": "2:60",
+      "end_verse_id": 68,
+      "end_verse_key": "2:61",
+      "start_page": 9,
+      "end_page": 9,
+      "juz": 1
+    },
+    {
+      "id": 9,
+      "start_verse_id": 69,
+      "start_verse_key": "2:62",
+      "end_verse_id": 78,
+      "end_verse_key": "2:71",
+      "start_page": 10,
+      "end_page": 11,
+      "juz": 1
+    },
+    {
+      "id": 10,
+      "start_verse_id": 79,
+      "start_verse_key": "2:72",
+      "end_verse_id": 89,
+      "end_verse_key": "2:82",
+      "start_page": 11,
+      "end_page": 12,
+      "juz": 1
+    },
+    {
+      "id": 11,
+      "start_verse_id": 90,
+      "start_verse_key": "2:83",
+      "end_verse_id": 93,
+      "end_verse_key": "2:86",
+      "start_page": 12,
+      "end_page": 13,
+      "juz": 1
+    },
+    {
+      "id": 12,
+      "start_verse_id": 94,
+      "start_verse_key": "2:87",
+      "end_verse_id": 103,
+      "end_verse_key": "2:96",
+      "start_page": 13,
+      "end_page": 15,
+      "juz": 1
+    },
+    {
+      "id": 13,
+      "start_verse_id": 104,
+      "start_verse_key": "2:97",
+      "end_verse_id": 110,
+      "end_verse_key": "2:103",
+      "start_page": 15,
+      "end_page": 16,
+      "juz": 1
+    },
+    {
+      "id": 14,
+      "start_verse_id": 111,
+      "start_verse_key": "2:104",
+      "end_verse_id": 119,
+      "end_verse_key": "2:112",
+      "start_page": 16,
+      "end_page": 17,
+      "juz": 1
+    },
+    {
+      "id": 15,
+      "start_verse_id": 120,
+      "start_verse_key": "2:113",
+      "end_verse_id": 128,
+      "end_verse_key": "2:121",
+      "start_page": 18,
+      "end_page": 19,
+      "juz": 1
+    },
+    {
+      "id": 16,
+      "start_verse_id": 129,
+      "start_verse_key": "2:122",
+      "end_verse_id": 136,
+      "end_verse_key": "2:129",
+      "start_page": 19,
+      "end_page": 20,
+      "juz": 1
+    },
+    {
+      "id": 17,
+      "start_verse_id": 137,
+      "start_verse_key": "2:130",
+      "end_verse_id": 148,
+      "end_verse_key": "2:141",
+      "start_page": 20,
+      "end_page": 21,
+      "juz": 1
+    },
+    {
+      "id": 18,
+      "start_verse_id": 149,
+      "start_verse_key": "2:142",
+      "end_verse_id": 154,
+      "end_verse_key": "2:147",
+      "start_page": 22,
+      "end_page": 23,
+      "juz": 2
+    },
+    {
+      "id": 19,
+      "start_verse_id": 155,
+      "start_verse_key": "2:148",
+      "end_verse_id": 159,
+      "end_verse_key": "2:152",
+      "start_page": 23,
+      "end_page": 23,
+      "juz": 2
+    },
+    {
+      "id": 20,
+      "start_verse_id": 160,
+      "start_verse_key": "2:153",
+      "end_verse_id": 170,
+      "end_verse_key": "2:163",
+      "start_page": 23,
+      "end_page": 24,
+      "juz": 2
+    },
+    {
+      "id": 21,
+      "start_verse_id": 171,
+      "start_verse_key": "2:164",
+      "end_verse_id": 174,
+      "end_verse_key": "2:167",
+      "start_page": 25,
+      "end_page": 25,
+      "juz": 2
+    },
+    {
+      "id": 22,
+      "start_verse_id": 175,
+      "start_verse_key": "2:168",
+      "end_verse_id": 183,
+      "end_verse_key": "2:176",
+      "start_page": 25,
+      "end_page": 26,
+      "juz": 2
+    },
+    {
+      "id": 23,
+      "start_verse_id": 184,
+      "start_verse_key": "2:177",
+      "end_verse_id": 189,
+      "end_verse_key": "2:182",
+      "start_page": 27,
+      "end_page": 28,
+      "juz": 2
+    },
+    {
+      "id": 24,
+      "start_verse_id": 190,
+      "start_verse_key": "2:183",
+      "end_verse_id": 195,
+      "end_verse_key": "2:188",
+      "start_page": 28,
+      "end_page": 29,
+      "juz": 2
+    },
+    {
+      "id": 25,
+      "start_verse_id": 196,
+      "start_verse_key": "2:189",
+      "end_verse_id": 203,
+      "end_verse_key": "2:196",
+      "start_page": 29,
+      "end_page": 30,
+      "juz": 2
+    },
+    {
+      "id": 26,
+      "start_verse_id": 204,
+      "start_verse_key": "2:197",
+      "end_verse_id": 217,
+      "end_verse_key": "2:210",
+      "start_page": 31,
+      "end_page": 32,
+      "juz": 2
+    },
+    {
+      "id": 27,
+      "start_verse_id": 218,
+      "start_verse_key": "2:211",
+      "end_verse_id": 223,
+      "end_verse_key": "2:216",
+      "start_page": 33,
+      "end_page": 34,
+      "juz": 2
+    },
+    {
+      "id": 28,
+      "start_verse_id": 224,
+      "start_verse_key": "2:217",
+      "end_verse_id": 228,
+      "end_verse_key": "2:221",
+      "start_page": 34,
+      "end_page": 35,
+      "juz": 2
+    },
+    {
+      "id": 29,
+      "start_verse_id": 229,
+      "start_verse_key": "2:222",
+      "end_verse_id": 235,
+      "end_verse_key": "2:228",
+      "start_page": 35,
+      "end_page": 36,
+      "juz": 2
+    },
+    {
+      "id": 30,
+      "start_verse_id": 236,
+      "start_verse_key": "2:229",
+      "end_verse_id": 238,
+      "end_verse_key": "2:231",
+      "start_page": 36,
+      "end_page": 37,
+      "juz": 2
+    },
+    {
+      "id": 31,
+      "start_verse_id": 239,
+      "start_verse_key": "2:232",
+      "end_verse_id": 242,
+      "end_verse_key": "2:235",
+      "start_page": 37,
+      "end_page": 38,
+      "juz": 2
+    },
+    {
+      "id": 32,
+      "start_verse_id": 243,
+      "start_verse_key": "2:236",
+      "end_verse_id": 249,
+      "end_verse_key": "2:242",
+      "start_page": 38,
+      "end_page": 39,
+      "juz": 2
+    },
+    {
+      "id": 33,
+      "start_verse_id": 250,
+      "start_verse_key": "2:243",
+      "end_verse_id": 255,
+      "end_verse_key": "2:248",
+      "start_page": 39,
+      "end_page": 40,
+      "juz": 2
+    },
+    {
+      "id": 34,
+      "start_verse_id": 256,
+      "start_verse_key": "2:249",
+      "end_verse_id": 260,
+      "end_verse_key": "2:253",
+      "start_page": 41,
+      "end_page": 42,
+      "juz": 2
+    },
+    {
+      "id": 35,
+      "start_verse_id": 261,
+      "start_verse_key": "2:254",
+      "end_verse_id": 264,
+      "end_verse_key": "2:257",
+      "start_page": 42,
+      "end_page": 43,
+      "juz": 3
+    },
+    {
+      "id": 36,
+      "start_verse_id": 265,
+      "start_verse_key": "2:258",
+      "end_verse_id": 267,
+      "end_verse_key": "2:260",
+      "start_page": 43,
+      "end_page": 44,
+      "juz": 3
+    },
+    {
+      "id": 37,
+      "start_verse_id": 268,
+      "start_verse_key": "2:261",
+      "end_verse_id": 273,
+      "end_verse_key": "2:266",
+      "start_page": 44,
+      "end_page": 45,
+      "juz": 3
+    },
+    {
+      "id": 38,
+      "start_verse_id": 274,
+      "start_verse_key": "2:267",
+      "end_verse_id": 280,
+      "end_verse_key": "2:273",
+      "start_page": 45,
+      "end_page": 46,
+      "juz": 3
+    },
+    {
+      "id": 39,
+      "start_verse_id": 281,
+      "start_verse_key": "2:274",
+      "end_verse_id": 288,
+      "end_verse_key": "2:281",
+      "start_page": 46,
+      "end_page": 47,
+      "juz": 3
+    },
+    {
+      "id": 40,
+      "start_verse_id": 289,
+      "start_verse_key": "2:282",
+      "end_verse_id": 290,
+      "end_verse_key": "2:283",
+      "start_page": 48,
+      "end_page": 49,
+      "juz": 3
+    },
+    {
+      "id": 41,
+      "start_verse_id": 291,
+      "start_verse_key": "2:284",
+      "end_verse_id": 293,
+      "end_verse_key": "2:286",
+      "start_page": 49,
+      "end_page": 49,
+      "juz": 3
+    },
+    {
+      "id": 42,
+      "start_verse_id": 294,
+      "start_verse_key": "3:1",
+      "end_verse_id": 302,
+      "end_verse_key": "3:9",
+      "start_page": 50,
+      "end_page": 50,
+      "juz": 3
+    },
+    {
+      "id": 43,
+      "start_verse_id": 303,
+      "start_verse_key": "3:10",
+      "end_verse_id": 313,
+      "end_verse_key": "3:20",
+      "start_page": 51,
+      "end_page": 52,
+      "juz": 3
+    },
+    {
+      "id": 44,
+      "start_verse_id": 314,
+      "start_verse_key": "3:21",
+      "end_verse_id": 323,
+      "end_verse_key": "3:30",
+      "start_page": 52,
+      "end_page": 54,
+      "juz": 3
+    },
+    {
+      "id": 45,
+      "start_verse_id": 324,
+      "start_verse_key": "3:31",
+      "end_verse_id": 334,
+      "end_verse_key": "3:41",
+      "start_page": 54,
+      "end_page": 55,
+      "juz": 3
+    },
+    {
+      "id": 46,
+      "start_verse_id": 335,
+      "start_verse_key": "3:42",
+      "end_verse_id": 347,
+      "end_verse_key": "3:54",
+      "start_page": 55,
+      "end_page": 57,
+      "juz": 3
+    },
+    {
+      "id": 47,
+      "start_verse_id": 348,
+      "start_verse_key": "3:55",
+      "end_verse_id": 356,
+      "end_verse_key": "3:63",
+      "start_page": 57,
+      "end_page": 58,
+      "juz": 3
+    },
+    {
+      "id": 48,
+      "start_verse_id": 357,
+      "start_verse_key": "3:64",
+      "end_verse_id": 364,
+      "end_verse_key": "3:71",
+      "start_page": 58,
+      "end_page": 59,
+      "juz": 3
+    },
+    {
+      "id": 49,
+      "start_verse_id": 365,
+      "start_verse_key": "3:72",
+      "end_verse_id": 373,
+      "end_verse_key": "3:80",
+      "start_page": 59,
+      "end_page": 60,
+      "juz": 3
+    },
+    {
+      "id": 50,
+      "start_verse_id": 374,
+      "start_verse_key": "3:81",
+      "end_verse_id": 384,
+      "end_verse_key": "3:91",
+      "start_page": 60,
+      "end_page": 61,
+      "juz": 3
+    },
+    {
+      "id": 51,
+      "start_verse_id": 385,
+      "start_verse_key": "3:92",
+      "end_verse_id": 394,
+      "end_verse_key": "3:101",
+      "start_page": 62,
+      "end_page": 63,
+      "juz": 3
+    },
+    {
+      "id": 52,
+      "start_verse_id": 395,
+      "start_verse_key": "3:102",
+      "end_verse_id": 402,
+      "end_verse_key": "3:109",
+      "start_page": 63,
+      "end_page": 64,
+      "juz": 4
+    },
+    {
+      "id": 53,
+      "start_verse_id": 403,
+      "start_verse_key": "3:110",
+      "end_verse_id": 413,
+      "end_verse_key": "3:120",
+      "start_page": 64,
+      "end_page": 65,
+      "juz": 4
+    },
+    {
+      "id": 54,
+      "start_verse_id": 414,
+      "start_verse_key": "3:121",
+      "end_verse_id": 422,
+      "end_verse_key": "3:129",
+      "start_page": 65,
+      "end_page": 66,
+      "juz": 4
+    },
+    {
+      "id": 55,
+      "start_verse_id": 423,
+      "start_verse_key": "3:130",
+      "end_verse_id": 436,
+      "end_verse_key": "3:143",
+      "start_page": 66,
+      "end_page": 68,
+      "juz": 4
+    },
+    {
+      "id": 56,
+      "start_verse_id": 437,
+      "start_verse_key": "3:144",
+      "end_verse_id": 441,
+      "end_verse_key": "3:148",
+      "start_page": 68,
+      "end_page": 68,
+      "juz": 4
+    },
+    {
+      "id": 57,
+      "start_verse_id": 442,
+      "start_verse_key": "3:149",
+      "end_verse_id": 448,
+      "end_verse_key": "3:155",
+      "start_page": 69,
+      "end_page": 70,
+      "juz": 4
+    },
+    {
+      "id": 58,
+      "start_verse_id": 449,
+      "start_verse_key": "3:156",
+      "end_verse_id": 464,
+      "end_verse_key": "3:171",
+      "start_page": 70,
+      "end_page": 72,
+      "juz": 4
+    },
+    {
+      "id": 59,
+      "start_verse_id": 465,
+      "start_verse_key": "3:172",
+      "end_verse_id": 473,
+      "end_verse_key": "3:180",
+      "start_page": 72,
+      "end_page": 73,
+      "juz": 4
+    },
+    {
+      "id": 60,
+      "start_verse_id": 474,
+      "start_verse_key": "3:181",
+      "end_verse_id": 482,
+      "end_verse_key": "3:189",
+      "start_page": 74,
+      "end_page": 75,
+      "juz": 4
+    },
+    {
+      "id": 61,
+      "start_verse_id": 483,
+      "start_verse_key": "3:190",
+      "end_verse_id": 493,
+      "end_verse_key": "3:200",
+      "start_page": 75,
+      "end_page": 76,
+      "juz": 4
+    },
+    {
+      "id": 62,
+      "start_verse_id": 494,
+      "start_verse_key": "4:1",
+      "end_verse_id": 503,
+      "end_verse_key": "4:10",
+      "start_page": 77,
+      "end_page": 78,
+      "juz": 4
+    },
+    {
+      "id": 63,
+      "start_verse_id": 504,
+      "start_verse_key": "4:11",
+      "end_verse_id": 507,
+      "end_verse_key": "4:14",
+      "start_page": 78,
+      "end_page": 79,
+      "juz": 4
+    },
+    {
+      "id": 64,
+      "start_verse_id": 508,
+      "start_verse_key": "4:15",
+      "end_verse_id": 515,
+      "end_verse_key": "4:22",
+      "start_page": 80,
+      "end_page": 81,
+      "juz": 4
+    },
+    {
+      "id": 65,
+      "start_verse_id": 516,
+      "start_verse_key": "4:23",
+      "end_verse_id": 518,
+      "end_verse_key": "4:25",
+      "start_page": 81,
+      "end_page": 82,
+      "juz": 4
+    },
+    {
+      "id": 66,
+      "start_verse_id": 519,
+      "start_verse_key": "4:26",
+      "end_verse_id": 526,
+      "end_verse_key": "4:33",
+      "start_page": 82,
+      "end_page": 83,
+      "juz": 5
+    },
+    {
+      "id": 67,
+      "start_verse_id": 527,
+      "start_verse_key": "4:34",
+      "end_verse_id": 535,
+      "end_verse_key": "4:42",
+      "start_page": 84,
+      "end_page": 85,
+      "juz": 5
+    },
+    {
+      "id": 68,
+      "start_verse_id": 536,
+      "start_verse_key": "4:43",
+      "end_verse_id": 543,
+      "end_verse_key": "4:50",
+      "start_page": 85,
+      "end_page": 86,
+      "juz": 5
+    },
+    {
+      "id": 69,
+      "start_verse_id": 544,
+      "start_verse_key": "4:51",
+      "end_verse_id": 552,
+      "end_verse_key": "4:59",
+      "start_page": 86,
+      "end_page": 87,
+      "juz": 5
+    },
+    {
+      "id": 70,
+      "start_verse_id": 553,
+      "start_verse_key": "4:60",
+      "end_verse_id": 563,
+      "end_verse_key": "4:70",
+      "start_page": 88,
+      "end_page": 89,
+      "juz": 5
+    },
+    {
+      "id": 71,
+      "start_verse_id": 564,
+      "start_verse_key": "4:71",
+      "end_verse_id": 569,
+      "end_verse_key": "4:76",
+      "start_page": 89,
+      "end_page": 90,
+      "juz": 5
+    },
+    {
+      "id": 72,
+      "start_verse_id": 570,
+      "start_verse_key": "4:77",
+      "end_verse_id": 580,
+      "end_verse_key": "4:87",
+      "start_page": 90,
+      "end_page": 92,
+      "juz": 5
+    },
+    {
+      "id": 73,
+      "start_verse_id": 581,
+      "start_verse_key": "4:88",
+      "end_verse_id": 584,
+      "end_verse_key": "4:91",
+      "start_page": 92,
+      "end_page": 92,
+      "juz": 5
+    },
+    {
+      "id": 74,
+      "start_verse_id": 585,
+      "start_verse_key": "4:92",
+      "end_verse_id": 589,
+      "end_verse_key": "4:96",
+      "start_page": 93,
+      "end_page": 94,
+      "juz": 5
+    },
+    {
+      "id": 75,
+      "start_verse_id": 590,
+      "start_verse_key": "4:97",
+      "end_verse_id": 593,
+      "end_verse_key": "4:100",
+      "start_page": 94,
+      "end_page": 94,
+      "juz": 5
+    },
+    {
+      "id": 76,
+      "start_verse_id": 594,
+      "start_verse_key": "4:101",
+      "end_verse_id": 597,
+      "end_verse_key": "4:104",
+      "start_page": 94,
+      "end_page": 95,
+      "juz": 5
+    },
+    {
+      "id": 77,
+      "start_verse_id": 598,
+      "start_verse_key": "4:105",
+      "end_verse_id": 605,
+      "end_verse_key": "4:112",
+      "start_page": 95,
+      "end_page": 96,
+      "juz": 5
+    },
+    {
+      "id": 78,
+      "start_verse_id": 606,
+      "start_verse_key": "4:113",
+      "end_verse_id": 608,
+      "end_verse_key": "4:115",
+      "start_page": 96,
+      "end_page": 97,
+      "juz": 5
+    },
+    {
+      "id": 79,
+      "start_verse_id": 609,
+      "start_verse_key": "4:116",
+      "end_verse_id": 619,
+      "end_verse_key": "4:126",
+      "start_page": 97,
+      "end_page": 98,
+      "juz": 5
+    },
+    {
+      "id": 80,
+      "start_verse_id": 620,
+      "start_verse_key": "4:127",
+      "end_verse_id": 627,
+      "end_verse_key": "4:134",
+      "start_page": 98,
+      "end_page": 99,
+      "juz": 5
+    },
+    {
+      "id": 81,
+      "start_verse_id": 628,
+      "start_verse_key": "4:135",
+      "end_verse_id": 634,
+      "end_verse_key": "4:141",
+      "start_page": 100,
+      "end_page": 101,
+      "juz": 5
+    },
+    {
+      "id": 82,
+      "start_verse_id": 635,
+      "start_verse_key": "4:142",
+      "end_verse_id": 645,
+      "end_verse_key": "4:152",
+      "start_page": 101,
+      "end_page": 102,
+      "juz": 5
+    },
+    {
+      "id": 83,
+      "start_verse_id": 646,
+      "start_verse_key": "4:153",
+      "end_verse_id": 655,
+      "end_verse_key": "4:162",
+      "start_page": 102,
+      "end_page": 103,
+      "juz": 6
+    },
+    {
+      "id": 84,
+      "start_verse_id": 656,
+      "start_verse_key": "4:163",
+      "end_verse_id": 664,
+      "end_verse_key": "4:171",
+      "start_page": 104,
+      "end_page": 105,
+      "juz": 6
+    },
+    {
+      "id": 85,
+      "start_verse_id": 665,
+      "start_verse_key": "4:172",
+      "end_verse_id": 669,
+      "end_verse_key": "4:176",
+      "start_page": 105,
+      "end_page": 106,
+      "juz": 6
+    },
+    {
+      "id": 86,
+      "start_verse_id": 670,
+      "start_verse_key": "5:1",
+      "end_verse_id": 674,
+      "end_verse_key": "5:5",
+      "start_page": 106,
+      "end_page": 107,
+      "juz": 6
+    },
+    {
+      "id": 87,
+      "start_verse_id": 675,
+      "start_verse_key": "5:6",
+      "end_verse_id": 680,
+      "end_verse_key": "5:11",
+      "start_page": 108,
+      "end_page": 109,
+      "juz": 6
+    },
+    {
+      "id": 88,
+      "start_verse_id": 681,
+      "start_verse_key": "5:12",
+      "end_verse_id": 688,
+      "end_verse_key": "5:19",
+      "start_page": 109,
+      "end_page": 111,
+      "juz": 6
+    },
+    {
+      "id": 89,
+      "start_verse_id": 689,
+      "start_verse_key": "5:20",
+      "end_verse_id": 695,
+      "end_verse_key": "5:26",
+      "start_page": 111,
+      "end_page": 112,
+      "juz": 6
+    },
+    {
+      "id": 90,
+      "start_verse_id": 696,
+      "start_verse_key": "5:27",
+      "end_verse_id": 703,
+      "end_verse_key": "5:34",
+      "start_page": 112,
+      "end_page": 113,
+      "juz": 6
+    },
+    {
+      "id": 91,
+      "start_verse_id": 704,
+      "start_verse_key": "5:35",
+      "end_verse_id": 712,
+      "end_verse_key": "5:43",
+      "start_page": 113,
+      "end_page": 115,
+      "juz": 6
+    },
+    {
+      "id": 92,
+      "start_verse_id": 713,
+      "start_verse_key": "5:44",
+      "end_verse_id": 719,
+      "end_verse_key": "5:50",
+      "start_page": 115,
+      "end_page": 116,
+      "juz": 6
+    },
+    {
+      "id": 93,
+      "start_verse_id": 720,
+      "start_verse_key": "5:51",
+      "end_verse_id": 725,
+      "end_verse_key": "5:56",
+      "start_page": 117,
+      "end_page": 117,
+      "juz": 6
+    },
+    {
+      "id": 94,
+      "start_verse_id": 726,
+      "start_verse_key": "5:57",
+      "end_verse_id": 735,
+      "end_verse_key": "5:66",
+      "start_page": 117,
+      "end_page": 119,
+      "juz": 6
+    },
+    {
+      "id": 95,
+      "start_verse_id": 736,
+      "start_verse_key": "5:67",
+      "end_verse_id": 746,
+      "end_verse_key": "5:77",
+      "start_page": 119,
+      "end_page": 121,
+      "juz": 6
+    },
+    {
+      "id": 96,
+      "start_verse_id": 747,
+      "start_verse_key": "5:78",
+      "end_verse_id": 755,
+      "end_verse_key": "5:86",
+      "start_page": 121,
+      "end_page": 122,
+      "juz": 6
+    },
+    {
+      "id": 97,
+      "start_verse_id": 756,
+      "start_verse_key": "5:87",
+      "end_verse_id": 762,
+      "end_verse_key": "5:93",
+      "start_page": 122,
+      "end_page": 123,
+      "juz": 7
+    },
+    {
+      "id": 98,
+      "start_verse_id": 763,
+      "start_verse_key": "5:94",
+      "end_verse_id": 769,
+      "end_verse_key": "5:100",
+      "start_page": 123,
+      "end_page": 124,
+      "juz": 7
+    },
+    {
+      "id": 99,
+      "start_verse_id": 770,
+      "start_verse_key": "5:101",
+      "end_verse_id": 777,
+      "end_verse_key": "5:108",
+      "start_page": 124,
+      "end_page": 125,
+      "juz": 7
+    },
+    {
+      "id": 100,
+      "start_verse_id": 778,
+      "start_verse_key": "5:109",
+      "end_verse_id": 784,
+      "end_verse_key": "5:115",
+      "start_page": 126,
+      "end_page": 127,
+      "juz": 7
+    },
+    {
+      "id": 101,
+      "start_verse_id": 785,
+      "start_verse_key": "5:116",
+      "end_verse_id": 789,
+      "end_verse_key": "5:120",
+      "start_page": 127,
+      "end_page": 127,
+      "juz": 7
+    },
+    {
+      "id": 102,
+      "start_verse_id": 790,
+      "start_verse_key": "6:1",
+      "end_verse_id": 799,
+      "end_verse_key": "6:10",
+      "start_page": 128,
+      "end_page": 129,
+      "juz": 7
+    },
+    {
+      "id": 103,
+      "start_verse_id": 800,
+      "start_verse_key": "6:11",
+      "end_verse_id": 809,
+      "end_verse_key": "6:20",
+      "start_page": 129,
+      "end_page": 130,
+      "juz": 7
+    },
+    {
+      "id": 104,
+      "start_verse_id": 810,
+      "start_verse_key": "6:21",
+      "end_verse_id": 819,
+      "end_verse_key": "6:30",
+      "start_page": 130,
+      "end_page": 131,
+      "juz": 7
+    },
+    {
+      "id": 105,
+      "start_verse_id": 820,
+      "start_verse_key": "6:31",
+      "end_verse_id": 830,
+      "end_verse_key": "6:41",
+      "start_page": 131,
+      "end_page": 132,
+      "juz": 7
+    },
+    {
+      "id": 106,
+      "start_verse_id": 831,
+      "start_verse_key": "6:42",
+      "end_verse_id": 839,
+      "end_verse_key": "6:50",
+      "start_page": 132,
+      "end_page": 133,
+      "juz": 7
+    },
+    {
+      "id": 107,
+      "start_verse_id": 840,
+      "start_verse_key": "6:51",
+      "end_verse_id": 844,
+      "end_verse_key": "6:55",
+      "start_page": 133,
+      "end_page": 134,
+      "juz": 7
+    },
+    {
+      "id": 108,
+      "start_verse_id": 845,
+      "start_verse_key": "6:56",
+      "end_verse_id": 849,
+      "end_verse_key": "6:60",
+      "start_page": 134,
+      "end_page": 135,
+      "juz": 7
+    },
+    {
+      "id": 109,
+      "start_verse_id": 850,
+      "start_verse_key": "6:61",
+      "end_verse_id": 859,
+      "end_verse_key": "6:70",
+      "start_page": 135,
+      "end_page": 136,
+      "juz": 7
+    },
+    {
+      "id": 110,
+      "start_verse_id": 860,
+      "start_verse_key": "6:71",
+      "end_verse_id": 871,
+      "end_verse_key": "6:82",
+      "start_page": 136,
+      "end_page": 138,
+      "juz": 7
+    },
+    {
+      "id": 111,
+      "start_verse_id": 872,
+      "start_verse_key": "6:83",
+      "end_verse_id": 879,
+      "end_verse_key": "6:90",
+      "start_page": 138,
+      "end_page": 138,
+      "juz": 7
+    },
+    {
+      "id": 112,
+      "start_verse_id": 880,
+      "start_verse_key": "6:91",
+      "end_verse_id": 883,
+      "end_verse_key": "6:94",
+      "start_page": 139,
+      "end_page": 139,
+      "juz": 7
+    },
+    {
+      "id": 113,
+      "start_verse_id": 884,
+      "start_verse_key": "6:95",
+      "end_verse_id": 889,
+      "end_verse_key": "6:100",
+      "start_page": 140,
+      "end_page": 140,
+      "juz": 7
+    },
+    {
+      "id": 114,
+      "start_verse_id": 890,
+      "start_verse_key": "6:101",
+      "end_verse_id": 899,
+      "end_verse_key": "6:110",
+      "start_page": 140,
+      "end_page": 141,
+      "juz": 7
+    },
+    {
+      "id": 115,
+      "start_verse_id": 900,
+      "start_verse_key": "6:111",
+      "end_verse_id": 910,
+      "end_verse_key": "6:121",
+      "start_page": 142,
+      "end_page": 143,
+      "juz": 8
+    },
+    {
+      "id": 116,
+      "start_verse_id": 911,
+      "start_verse_key": "6:122",
+      "end_verse_id": 918,
+      "end_verse_key": "6:129",
+      "start_page": 143,
+      "end_page": 144,
+      "juz": 8
+    },
+    {
+      "id": 117,
+      "start_verse_id": 919,
+      "start_verse_key": "6:130",
+      "end_verse_id": 929,
+      "end_verse_key": "6:140",
+      "start_page": 144,
+      "end_page": 146,
+      "juz": 8
+    },
+    {
+      "id": 118,
+      "start_verse_id": 930,
+      "start_verse_key": "6:141",
+      "end_verse_id": 933,
+      "end_verse_key": "6:144",
+      "start_page": 146,
+      "end_page": 147,
+      "juz": 8
+    },
+    {
+      "id": 119,
+      "start_verse_id": 934,
+      "start_verse_key": "6:145",
+      "end_verse_id": 939,
+      "end_verse_key": "6:150",
+      "start_page": 147,
+      "end_page": 148,
+      "juz": 8
+    },
+    {
+      "id": 120,
+      "start_verse_id": 940,
+      "start_verse_key": "6:151",
+      "end_verse_id": 943,
+      "end_verse_key": "6:154",
+      "start_page": 148,
+      "end_page": 149,
+      "juz": 8
+    },
+    {
+      "id": 121,
+      "start_verse_id": 944,
+      "start_verse_key": "6:155",
+      "end_verse_id": 954,
+      "end_verse_key": "6:165",
+      "start_page": 149,
+      "end_page": 150,
+      "juz": 8
+    },
+    {
+      "id": 122,
+      "start_verse_id": 955,
+      "start_verse_key": "7:1",
+      "end_verse_id": 964,
+      "end_verse_key": "7:10",
+      "start_page": 151,
+      "end_page": 151,
+      "juz": 8
+    },
+    {
+      "id": 123,
+      "start_verse_id": 965,
+      "start_verse_key": "7:11",
+      "end_verse_id": 979,
+      "end_verse_key": "7:25",
+      "start_page": 151,
+      "end_page": 153,
+      "juz": 8
+    },
+    {
+      "id": 124,
+      "start_verse_id": 980,
+      "start_verse_key": "7:26",
+      "end_verse_id": 985,
+      "end_verse_key": "7:31",
+      "start_page": 153,
+      "end_page": 154,
+      "juz": 8
+    },
+    {
+      "id": 125,
+      "start_verse_id": 986,
+      "start_verse_key": "7:32",
+      "end_verse_id": 993,
+      "end_verse_key": "7:39",
+      "start_page": 154,
+      "end_page": 155,
+      "juz": 8
+    },
+    {
+      "id": 126,
+      "start_verse_id": 994,
+      "start_verse_key": "7:40",
+      "end_verse_id": 1001,
+      "end_verse_key": "7:47",
+      "start_page": 155,
+      "end_page": 156,
+      "juz": 8
+    },
+    {
+      "id": 127,
+      "start_verse_id": 1002,
+      "start_verse_key": "7:48",
+      "end_verse_id": 1007,
+      "end_verse_key": "7:53",
+      "start_page": 156,
+      "end_page": 157,
+      "juz": 8
+    },
+    {
+      "id": 128,
+      "start_verse_id": 1008,
+      "start_verse_key": "7:54",
+      "end_verse_id": 1012,
+      "end_verse_key": "7:58",
+      "start_page": 157,
+      "end_page": 158,
+      "juz": 8
+    },
+    {
+      "id": 129,
+      "start_verse_id": 1013,
+      "start_verse_key": "7:59",
+      "end_verse_id": 1018,
+      "end_verse_key": "7:64",
+      "start_page": 158,
+      "end_page": 158,
+      "juz": 8
+    },
+    {
+      "id": 130,
+      "start_verse_id": 1019,
+      "start_verse_key": "7:65",
+      "end_verse_id": 1026,
+      "end_verse_key": "7:72",
+      "start_page": 158,
+      "end_page": 159,
+      "juz": 8
+    },
+    {
+      "id": 131,
+      "start_verse_id": 1027,
+      "start_verse_key": "7:73",
+      "end_verse_id": 1038,
+      "end_verse_key": "7:84",
+      "start_page": 159,
+      "end_page": 161,
+      "juz": 8
+    },
+    {
+      "id": 132,
+      "start_verse_id": 1039,
+      "start_verse_key": "7:85",
+      "end_verse_id": 1047,
+      "end_verse_key": "7:93",
+      "start_page": 161,
+      "end_page": 162,
+      "juz": 8
+    },
+    {
+      "id": 133,
+      "start_verse_id": 1048,
+      "start_verse_key": "7:94",
+      "end_verse_id": 1053,
+      "end_verse_key": "7:99",
+      "start_page": 162,
+      "end_page": 163,
+      "juz": 9
+    },
+    {
+      "id": 134,
+      "start_verse_id": 1054,
+      "start_verse_key": "7:100",
+      "end_verse_id": 1062,
+      "end_verse_key": "7:108",
+      "start_page": 163,
+      "end_page": 164,
+      "juz": 9
+    },
+    {
+      "id": 135,
+      "start_verse_id": 1063,
+      "start_verse_key": "7:109",
+      "end_verse_id": 1080,
+      "end_verse_key": "7:126",
+      "start_page": 164,
+      "end_page": 165,
+      "juz": 9
+    },
+    {
+      "id": 136,
+      "start_verse_id": 1081,
+      "start_verse_key": "7:127",
+      "end_verse_id": 1083,
+      "end_verse_key": "7:129",
+      "start_page": 165,
+      "end_page": 165,
+      "juz": 9
+    },
+    {
+      "id": 137,
+      "start_verse_id": 1084,
+      "start_verse_key": "7:130",
+      "end_verse_id": 1095,
+      "end_verse_key": "7:141",
+      "start_page": 165,
+      "end_page": 167,
+      "juz": 9
+    },
+    {
+      "id": 138,
+      "start_verse_id": 1096,
+      "start_verse_key": "7:142",
+      "end_verse_id": 1101,
+      "end_verse_key": "7:147",
+      "start_page": 167,
+      "end_page": 168,
+      "juz": 9
+    },
+    {
+      "id": 139,
+      "start_verse_id": 1102,
+      "start_verse_key": "7:148",
+      "end_verse_id": 1105,
+      "end_verse_key": "7:151",
+      "start_page": 168,
+      "end_page": 169,
+      "juz": 9
+    },
+    {
+      "id": 140,
+      "start_verse_id": 1106,
+      "start_verse_key": "7:152",
+      "end_verse_id": 1111,
+      "end_verse_key": "7:157",
+      "start_page": 169,
+      "end_page": 170,
+      "juz": 9
+    },
+    {
+      "id": 141,
+      "start_verse_id": 1112,
+      "start_verse_key": "7:158",
+      "end_verse_id": 1116,
+      "end_verse_key": "7:162",
+      "start_page": 170,
+      "end_page": 171,
+      "juz": 9
+    },
+    {
+      "id": 142,
+      "start_verse_id": 1117,
+      "start_verse_key": "7:163",
+      "end_verse_id": 1125,
+      "end_verse_key": "7:171",
+      "start_page": 171,
+      "end_page": 173,
+      "juz": 9
+    },
+    {
+      "id": 143,
+      "start_verse_id": 1126,
+      "start_verse_key": "7:172",
+      "end_verse_id": 1135,
+      "end_verse_key": "7:181",
+      "start_page": 173,
+      "end_page": 174,
+      "juz": 9
+    },
+    {
+      "id": 144,
+      "start_verse_id": 1136,
+      "start_verse_key": "7:182",
+      "end_verse_id": 1142,
+      "end_verse_key": "7:188",
+      "start_page": 174,
+      "end_page": 175,
+      "juz": 9
+    },
+    {
+      "id": 145,
+      "start_verse_id": 1143,
+      "start_verse_key": "7:189",
+      "end_verse_id": 1160,
+      "end_verse_key": "7:206",
+      "start_page": 175,
+      "end_page": 176,
+      "juz": 9
+    },
+    {
+      "id": 146,
+      "start_verse_id": 1161,
+      "start_verse_key": "8:1",
+      "end_verse_id": 1170,
+      "end_verse_key": "8:10",
+      "start_page": 177,
+      "end_page": 178,
+      "juz": 9
+    },
+    {
+      "id": 147,
+      "start_verse_id": 1171,
+      "start_verse_key": "8:11",
+      "end_verse_id": 1179,
+      "end_verse_key": "8:19",
+      "start_page": 178,
+      "end_page": 179,
+      "juz": 9
+    },
+    {
+      "id": 148,
+      "start_verse_id": 1180,
+      "start_verse_key": "8:20",
+      "end_verse_id": 1188,
+      "end_verse_key": "8:28",
+      "start_page": 179,
+      "end_page": 180,
+      "juz": 9
+    },
+    {
+      "id": 149,
+      "start_verse_id": 1189,
+      "start_verse_key": "8:29",
+      "end_verse_id": 1197,
+      "end_verse_key": "8:37",
+      "start_page": 180,
+      "end_page": 181,
+      "juz": 9
+    },
+    {
+      "id": 150,
+      "start_verse_id": 1198,
+      "start_verse_key": "8:38",
+      "end_verse_id": 1204,
+      "end_verse_key": "8:44",
+      "start_page": 181,
+      "end_page": 182,
+      "juz": 9
+    },
+    {
+      "id": 151,
+      "start_verse_id": 1205,
+      "start_verse_key": "8:45",
+      "end_verse_id": 1208,
+      "end_verse_key": "8:48",
+      "start_page": 182,
+      "end_page": 183,
+      "juz": 10
+    },
+    {
+      "id": 152,
+      "start_verse_id": 1209,
+      "start_verse_key": "8:49",
+      "end_verse_id": 1218,
+      "end_verse_key": "8:58",
+      "start_page": 183,
+      "end_page": 184,
+      "juz": 10
+    },
+    {
+      "id": 153,
+      "start_verse_id": 1219,
+      "start_verse_key": "8:59",
+      "end_verse_id": 1224,
+      "end_verse_key": "8:64",
+      "start_page": 184,
+      "end_page": 185,
+      "juz": 10
+    },
+    {
+      "id": 154,
+      "start_verse_id": 1225,
+      "start_verse_key": "8:65",
+      "end_verse_id": 1229,
+      "end_verse_key": "8:69",
+      "start_page": 185,
+      "end_page": 185,
+      "juz": 10
+    },
+    {
+      "id": 155,
+      "start_verse_id": 1230,
+      "start_verse_key": "8:70",
+      "end_verse_id": 1235,
+      "end_verse_key": "8:75",
+      "start_page": 186,
+      "end_page": 186,
+      "juz": 10
+    },
+    {
+      "id": 156,
+      "start_verse_id": 1236,
+      "start_verse_key": "9:1",
+      "end_verse_id": 1241,
+      "end_verse_key": "9:6",
+      "start_page": 187,
+      "end_page": 187,
+      "juz": 10
+    },
+    {
+      "id": 157,
+      "start_verse_id": 1242,
+      "start_verse_key": "9:7",
+      "end_verse_id": 1251,
+      "end_verse_key": "9:16",
+      "start_page": 188,
+      "end_page": 189,
+      "juz": 10
+    },
+    {
+      "id": 158,
+      "start_verse_id": 1252,
+      "start_verse_key": "9:17",
+      "end_verse_id": 1259,
+      "end_verse_key": "9:24",
+      "start_page": 189,
+      "end_page": 190,
+      "juz": 10
+    },
+    {
+      "id": 159,
+      "start_verse_id": 1260,
+      "start_verse_key": "9:25",
+      "end_verse_id": 1264,
+      "end_verse_key": "9:29",
+      "start_page": 190,
+      "end_page": 191,
+      "juz": 10
+    },
+    {
+      "id": 160,
+      "start_verse_id": 1265,
+      "start_verse_key": "9:30",
+      "end_verse_id": 1272,
+      "end_verse_key": "9:37",
+      "start_page": 191,
+      "end_page": 193,
+      "juz": 10
+    },
+    {
+      "id": 161,
+      "start_verse_id": 1273,
+      "start_verse_key": "9:38",
+      "end_verse_id": 1277,
+      "end_verse_key": "9:42",
+      "start_page": 193,
+      "end_page": 194,
+      "juz": 10
+    },
+    {
+      "id": 162,
+      "start_verse_id": 1278,
+      "start_verse_key": "9:43",
+      "end_verse_id": 1294,
+      "end_verse_key": "9:59",
+      "start_page": 194,
+      "end_page": 196,
+      "juz": 10
+    },
+    {
+      "id": 163,
+      "start_verse_id": 1295,
+      "start_verse_key": "9:60",
+      "end_verse_id": 1301,
+      "end_verse_key": "9:66",
+      "start_page": 196,
+      "end_page": 197,
+      "juz": 10
+    },
+    {
+      "id": 164,
+      "start_verse_id": 1302,
+      "start_verse_key": "9:67",
+      "end_verse_id": 1307,
+      "end_verse_key": "9:72",
+      "start_page": 197,
+      "end_page": 198,
+      "juz": 10
+    },
+    {
+      "id": 165,
+      "start_verse_id": 1308,
+      "start_verse_key": "9:73",
+      "end_verse_id": 1315,
+      "end_verse_key": "9:80",
+      "start_page": 199,
+      "end_page": 200,
+      "juz": 10
+    },
+    {
+      "id": 166,
+      "start_verse_id": 1316,
+      "start_verse_key": "9:81",
+      "end_verse_id": 1324,
+      "end_verse_key": "9:89",
+      "start_page": 200,
+      "end_page": 201,
+      "juz": 10
+    },
+    {
+      "id": 167,
+      "start_verse_id": 1325,
+      "start_verse_key": "9:90",
+      "end_verse_id": 1334,
+      "end_verse_key": "9:99",
+      "start_page": 201,
+      "end_page": 202,
+      "juz": 10
+    },
+    {
+      "id": 168,
+      "start_verse_id": 1335,
+      "start_verse_key": "9:100",
+      "end_verse_id": 1345,
+      "end_verse_key": "9:110",
+      "start_page": 203,
+      "end_page": 204,
+      "juz": 11
+    },
+    {
+      "id": 169,
+      "start_verse_id": 1346,
+      "start_verse_key": "9:111",
+      "end_verse_id": 1353,
+      "end_verse_key": "9:118",
+      "start_page": 204,
+      "end_page": 206,
+      "juz": 11
+    },
+    {
+      "id": 170,
+      "start_verse_id": 1354,
+      "start_verse_key": "9:119",
+      "end_verse_id": 1357,
+      "end_verse_key": "9:122",
+      "start_page": 206,
+      "end_page": 206,
+      "juz": 11
+    },
+    {
+      "id": 171,
+      "start_verse_id": 1358,
+      "start_verse_key": "9:123",
+      "end_verse_id": 1364,
+      "end_verse_key": "9:129",
+      "start_page": 207,
+      "end_page": 207,
+      "juz": 11
+    },
+    {
+      "id": 172,
+      "start_verse_id": 1365,
+      "start_verse_key": "10:1",
+      "end_verse_id": 1374,
+      "end_verse_key": "10:10",
+      "start_page": 208,
+      "end_page": 209,
+      "juz": 11
+    },
+    {
+      "id": 173,
+      "start_verse_id": 1375,
+      "start_verse_key": "10:11",
+      "end_verse_id": 1384,
+      "end_verse_key": "10:20",
+      "start_page": 209,
+      "end_page": 210,
+      "juz": 11
+    },
+    {
+      "id": 174,
+      "start_verse_id": 1385,
+      "start_verse_key": "10:21",
+      "end_verse_id": 1394,
+      "end_verse_key": "10:30",
+      "start_page": 211,
+      "end_page": 212,
+      "juz": 11
+    },
+    {
+      "id": 175,
+      "start_verse_id": 1395,
+      "start_verse_key": "10:31",
+      "end_verse_id": 1404,
+      "end_verse_key": "10:40",
+      "start_page": 212,
+      "end_page": 213,
+      "juz": 11
+    },
+    {
+      "id": 176,
+      "start_verse_id": 1405,
+      "start_verse_key": "10:41",
+      "end_verse_id": 1417,
+      "end_verse_key": "10:53",
+      "start_page": 213,
+      "end_page": 214,
+      "juz": 11
+    },
+    {
+      "id": 177,
+      "start_verse_id": 1418,
+      "start_verse_key": "10:54",
+      "end_verse_id": 1424,
+      "end_verse_key": "10:60",
+      "start_page": 215,
+      "end_page": 215,
+      "juz": 11
+    },
+    {
+      "id": 178,
+      "start_verse_id": 1425,
+      "start_verse_key": "10:61",
+      "end_verse_id": 1434,
+      "end_verse_key": "10:70",
+      "start_page": 215,
+      "end_page": 216,
+      "juz": 11
+    },
+    {
+      "id": 179,
+      "start_verse_id": 1435,
+      "start_verse_key": "10:71",
+      "end_verse_id": 1446,
+      "end_verse_key": "10:82",
+      "start_page": 217,
+      "end_page": 218,
+      "juz": 11
+    },
+    {
+      "id": 180,
+      "start_verse_id": 1447,
+      "start_verse_key": "10:83",
+      "end_verse_id": 1456,
+      "end_verse_key": "10:92",
+      "start_page": 218,
+      "end_page": 219,
+      "juz": 11
+    },
+    {
+      "id": 181,
+      "start_verse_id": 1457,
+      "start_verse_key": "10:93",
+      "end_verse_id": 1467,
+      "end_verse_key": "10:103",
+      "start_page": 219,
+      "end_page": 220,
+      "juz": 11
+    },
+    {
+      "id": 182,
+      "start_verse_id": 1468,
+      "start_verse_key": "10:104",
+      "end_verse_id": 1473,
+      "end_verse_key": "10:109",
+      "start_page": 220,
+      "end_page": 221,
+      "juz": 11
+    },
+    {
+      "id": 183,
+      "start_verse_id": 1474,
+      "start_verse_key": "11:1",
+      "end_verse_id": 1481,
+      "end_verse_key": "11:8",
+      "start_page": 221,
+      "end_page": 222,
+      "juz": 11
+    },
+    {
+      "id": 184,
+      "start_verse_id": 1482,
+      "start_verse_key": "11:9",
+      "end_verse_id": 1497,
+      "end_verse_key": "11:24",
+      "start_page": 222,
+      "end_page": 224,
+      "juz": 12
+    },
+    {
+      "id": 185,
+      "start_verse_id": 1498,
+      "start_verse_key": "11:25",
+      "end_verse_id": 1508,
+      "end_verse_key": "11:35",
+      "start_page": 224,
+      "end_page": 225,
+      "juz": 12
+    },
+    {
+      "id": 186,
+      "start_verse_id": 1509,
+      "start_verse_key": "11:36",
+      "end_verse_id": 1522,
+      "end_verse_key": "11:49",
+      "start_page": 225,
+      "end_page": 227,
+      "juz": 12
+    },
+    {
+      "id": 187,
+      "start_verse_id": 1523,
+      "start_verse_key": "11:50",
+      "end_verse_id": 1533,
+      "end_verse_key": "11:60",
+      "start_page": 227,
+      "end_page": 228,
+      "juz": 12
+    },
+    {
+      "id": 188,
+      "start_verse_id": 1534,
+      "start_verse_key": "11:61",
+      "end_verse_id": 1541,
+      "end_verse_key": "11:68",
+      "start_page": 228,
+      "end_page": 229,
+      "juz": 12
+    },
+    {
+      "id": 189,
+      "start_verse_id": 1542,
+      "start_verse_key": "11:69",
+      "end_verse_id": 1556,
+      "end_verse_key": "11:83",
+      "start_page": 229,
+      "end_page": 231,
+      "juz": 12
+    },
+    {
+      "id": 190,
+      "start_verse_id": 1557,
+      "start_verse_key": "11:84",
+      "end_verse_id": 1568,
+      "end_verse_key": "11:95",
+      "start_page": 231,
+      "end_page": 232,
+      "juz": 12
+    },
+    {
+      "id": 191,
+      "start_verse_id": 1569,
+      "start_verse_key": "11:96",
+      "end_verse_id": 1582,
+      "end_verse_key": "11:109",
+      "start_page": 232,
+      "end_page": 234,
+      "juz": 12
+    },
+    {
+      "id": 192,
+      "start_verse_id": 1583,
+      "start_verse_key": "11:110",
+      "end_verse_id": 1596,
+      "end_verse_key": "11:123",
+      "start_page": 234,
+      "end_page": 235,
+      "juz": 12
+    },
+    {
+      "id": 193,
+      "start_verse_id": 1597,
+      "start_verse_key": "12:1",
+      "end_verse_id": 1602,
+      "end_verse_key": "12:6",
+      "start_page": 235,
+      "end_page": 236,
+      "juz": 12
+    },
+    {
+      "id": 194,
+      "start_verse_id": 1603,
+      "start_verse_key": "12:7",
+      "end_verse_id": 1616,
+      "end_verse_key": "12:20",
+      "start_page": 236,
+      "end_page": 237,
+      "juz": 12
+    },
+    {
+      "id": 195,
+      "start_verse_id": 1617,
+      "start_verse_key": "12:21",
+      "end_verse_id": 1625,
+      "end_verse_key": "12:29",
+      "start_page": 237,
+      "end_page": 238,
+      "juz": 12
+    },
+    {
+      "id": 196,
+      "start_verse_id": 1626,
+      "start_verse_key": "12:30",
+      "end_verse_id": 1631,
+      "end_verse_key": "12:35",
+      "start_page": 238,
+      "end_page": 239,
+      "juz": 12
+    },
+    {
+      "id": 197,
+      "start_verse_id": 1632,
+      "start_verse_key": "12:36",
+      "end_verse_id": 1638,
+      "end_verse_key": "12:42",
+      "start_page": 239,
+      "end_page": 240,
+      "juz": 12
+    },
+    {
+      "id": 198,
+      "start_verse_id": 1639,
+      "start_verse_key": "12:43",
+      "end_verse_id": 1645,
+      "end_verse_key": "12:49",
+      "start_page": 240,
+      "end_page": 241,
+      "juz": 12
+    },
+    {
+      "id": 199,
+      "start_verse_id": 1646,
+      "start_verse_key": "12:50",
+      "end_verse_id": 1653,
+      "end_verse_key": "12:57",
+      "start_page": 241,
+      "end_page": 242,
+      "juz": 12
+    },
+    {
+      "id": 200,
+      "start_verse_id": 1654,
+      "start_verse_key": "12:58",
+      "end_verse_id": 1664,
+      "end_verse_key": "12:68",
+      "start_page": 242,
+      "end_page": 243,
+      "juz": 13
+    },
+    {
+      "id": 201,
+      "start_verse_id": 1665,
+      "start_verse_key": "12:69",
+      "end_verse_id": 1675,
+      "end_verse_key": "12:79",
+      "start_page": 243,
+      "end_page": 245,
+      "juz": 13
+    },
+    {
+      "id": 202,
+      "start_verse_id": 1676,
+      "start_verse_key": "12:80",
+      "end_verse_id": 1689,
+      "end_verse_key": "12:93",
+      "start_page": 245,
+      "end_page": 246,
+      "juz": 13
+    },
+    {
+      "id": 203,
+      "start_verse_id": 1690,
+      "start_verse_key": "12:94",
+      "end_verse_id": 1700,
+      "end_verse_key": "12:104",
+      "start_page": 246,
+      "end_page": 248,
+      "juz": 13
+    },
+    {
+      "id": 204,
+      "start_verse_id": 1701,
+      "start_verse_key": "12:105",
+      "end_verse_id": 1707,
+      "end_verse_key": "12:111",
+      "start_page": 248,
+      "end_page": 248,
+      "juz": 13
+    },
+    {
+      "id": 205,
+      "start_verse_id": 1708,
+      "start_verse_key": "13:1",
+      "end_verse_id": 1714,
+      "end_verse_key": "13:7",
+      "start_page": 249,
+      "end_page": 250,
+      "juz": 13
+    },
+    {
+      "id": 206,
+      "start_verse_id": 1715,
+      "start_verse_key": "13:8",
+      "end_verse_id": 1725,
+      "end_verse_key": "13:18",
+      "start_page": 250,
+      "end_page": 251,
+      "juz": 13
+    },
+    {
+      "id": 207,
+      "start_verse_id": 1726,
+      "start_verse_key": "13:19",
+      "end_verse_id": 1733,
+      "end_verse_key": "13:26",
+      "start_page": 252,
+      "end_page": 252,
+      "juz": 13
+    },
+    {
+      "id": 208,
+      "start_verse_id": 1734,
+      "start_verse_key": "13:27",
+      "end_verse_id": 1738,
+      "end_verse_key": "13:31",
+      "start_page": 252,
+      "end_page": 253,
+      "juz": 13
+    },
+    {
+      "id": 209,
+      "start_verse_id": 1739,
+      "start_verse_key": "13:32",
+      "end_verse_id": 1744,
+      "end_verse_key": "13:37",
+      "start_page": 253,
+      "end_page": 254,
+      "juz": 13
+    },
+    {
+      "id": 210,
+      "start_verse_id": 1745,
+      "start_verse_key": "13:38",
+      "end_verse_id": 1750,
+      "end_verse_key": "13:43",
+      "start_page": 254,
+      "end_page": 255,
+      "juz": 13
+    },
+    {
+      "id": 211,
+      "start_verse_id": 1751,
+      "start_verse_key": "14:1",
+      "end_verse_id": 1756,
+      "end_verse_key": "14:6",
+      "start_page": 255,
+      "end_page": 256,
+      "juz": 13
+    },
+    {
+      "id": 212,
+      "start_verse_id": 1757,
+      "start_verse_key": "14:7",
+      "end_verse_id": 1762,
+      "end_verse_key": "14:12",
+      "start_page": 256,
+      "end_page": 257,
+      "juz": 13
+    },
+    {
+      "id": 213,
+      "start_verse_id": 1763,
+      "start_verse_key": "14:13",
+      "end_verse_id": 1771,
+      "end_verse_key": "14:21",
+      "start_page": 257,
+      "end_page": 258,
+      "juz": 13
+    },
+    {
+      "id": 214,
+      "start_verse_id": 1772,
+      "start_verse_key": "14:22",
+      "end_verse_id": 1777,
+      "end_verse_key": "14:27",
+      "start_page": 258,
+      "end_page": 259,
+      "juz": 13
+    },
+    {
+      "id": 215,
+      "start_verse_id": 1778,
+      "start_verse_key": "14:28",
+      "end_verse_id": 1784,
+      "end_verse_key": "14:34",
+      "start_page": 259,
+      "end_page": 260,
+      "juz": 13
+    },
+    {
+      "id": 216,
+      "start_verse_id": 1785,
+      "start_verse_key": "14:35",
+      "end_verse_id": 1791,
+      "end_verse_key": "14:41",
+      "start_page": 260,
+      "end_page": 260,
+      "juz": 13
+    },
+    {
+      "id": 217,
+      "start_verse_id": 1792,
+      "start_verse_key": "14:42",
+      "end_verse_id": 1802,
+      "end_verse_key": "14:52",
+      "start_page": 260,
+      "end_page": 261,
+      "juz": 13
+    },
+    {
+      "id": 218,
+      "start_verse_id": 1803,
+      "start_verse_key": "15:1",
+      "end_verse_id": 1817,
+      "end_verse_key": "15:15",
+      "start_page": 262,
+      "end_page": 262,
+      "juz": 14
+    },
+    {
+      "id": 219,
+      "start_verse_id": 1818,
+      "start_verse_key": "15:16",
+      "end_verse_id": 1827,
+      "end_verse_key": "15:25",
+      "start_page": 263,
+      "end_page": 263,
+      "juz": 14
+    },
+    {
+      "id": 220,
+      "start_verse_id": 1828,
+      "start_verse_key": "15:26",
+      "end_verse_id": 1846,
+      "end_verse_key": "15:44",
+      "start_page": 263,
+      "end_page": 264,
+      "juz": 14
+    },
+    {
+      "id": 221,
+      "start_verse_id": 1847,
+      "start_verse_key": "15:45",
+      "end_verse_id": 1862,
+      "end_verse_key": "15:60",
+      "start_page": 264,
+      "end_page": 265,
+      "juz": 14
+    },
+    {
+      "id": 222,
+      "start_verse_id": 1863,
+      "start_verse_key": "15:61",
+      "end_verse_id": 1881,
+      "end_verse_key": "15:79",
+      "start_page": 265,
+      "end_page": 266,
+      "juz": 14
+    },
+    {
+      "id": 223,
+      "start_verse_id": 1882,
+      "start_verse_key": "15:80",
+      "end_verse_id": 1901,
+      "end_verse_key": "15:99",
+      "start_page": 266,
+      "end_page": 267,
+      "juz": 14
+    },
+    {
+      "id": 224,
+      "start_verse_id": 1902,
+      "start_verse_key": "16:1",
+      "end_verse_id": 1910,
+      "end_verse_key": "16:9",
+      "start_page": 267,
+      "end_page": 268,
+      "juz": 14
+    },
+    {
+      "id": 225,
+      "start_verse_id": 1911,
+      "start_verse_key": "16:10",
+      "end_verse_id": 1922,
+      "end_verse_key": "16:21",
+      "start_page": 268,
+      "end_page": 269,
+      "juz": 14
+    },
+    {
+      "id": 226,
+      "start_verse_id": 1923,
+      "start_verse_key": "16:22",
+      "end_verse_id": 1926,
+      "end_verse_key": "16:25",
+      "start_page": 269,
+      "end_page": 269,
+      "juz": 14
+    },
+    {
+      "id": 227,
+      "start_verse_id": 1927,
+      "start_verse_key": "16:26",
+      "end_verse_id": 1935,
+      "end_verse_key": "16:34",
+      "start_page": 269,
+      "end_page": 270,
+      "juz": 14
+    },
+    {
+      "id": 228,
+      "start_verse_id": 1936,
+      "start_verse_key": "16:35",
+      "end_verse_id": 1941,
+      "end_verse_key": "16:40",
+      "start_page": 271,
+      "end_page": 271,
+      "juz": 14
+    },
+    {
+      "id": 229,
+      "start_verse_id": 1942,
+      "start_verse_key": "16:41",
+      "end_verse_id": 1951,
+      "end_verse_key": "16:50",
+      "start_page": 271,
+      "end_page": 272,
+      "juz": 14
+    },
+    {
+      "id": 230,
+      "start_verse_id": 1952,
+      "start_verse_key": "16:51",
+      "end_verse_id": 1961,
+      "end_verse_key": "16:60",
+      "start_page": 272,
+      "end_page": 273,
+      "juz": 14
+    },
+    {
+      "id": 231,
+      "start_verse_id": 1962,
+      "start_verse_key": "16:61",
+      "end_verse_id": 1966,
+      "end_verse_key": "16:65",
+      "start_page": 273,
+      "end_page": 274,
+      "juz": 14
+    },
+    {
+      "id": 232,
+      "start_verse_id": 1967,
+      "start_verse_key": "16:66",
+      "end_verse_id": 1971,
+      "end_verse_key": "16:70",
+      "start_page": 274,
+      "end_page": 274,
+      "juz": 14
+    },
+    {
+      "id": 233,
+      "start_verse_id": 1972,
+      "start_verse_key": "16:71",
+      "end_verse_id": 1977,
+      "end_verse_key": "16:76",
+      "start_page": 274,
+      "end_page": 275,
+      "juz": 14
+    },
+    {
+      "id": 234,
+      "start_verse_id": 1978,
+      "start_verse_key": "16:77",
+      "end_verse_id": 1984,
+      "end_verse_key": "16:83",
+      "start_page": 275,
+      "end_page": 276,
+      "juz": 14
+    },
+    {
+      "id": 235,
+      "start_verse_id": 1985,
+      "start_verse_key": "16:84",
+      "end_verse_id": 1990,
+      "end_verse_key": "16:89",
+      "start_page": 276,
+      "end_page": 277,
+      "juz": 14
+    },
+    {
+      "id": 236,
+      "start_verse_id": 1991,
+      "start_verse_key": "16:90",
+      "end_verse_id": 2001,
+      "end_verse_key": "16:100",
+      "start_page": 277,
+      "end_page": 278,
+      "juz": 14
+    },
+    {
+      "id": 237,
+      "start_verse_id": 2002,
+      "start_verse_key": "16:101",
+      "end_verse_id": 2011,
+      "end_verse_key": "16:110",
+      "start_page": 278,
+      "end_page": 279,
+      "juz": 14
+    },
+    {
+      "id": 238,
+      "start_verse_id": 2012,
+      "start_verse_key": "16:111",
+      "end_verse_id": 2020,
+      "end_verse_key": "16:119",
+      "start_page": 280,
+      "end_page": 281,
+      "juz": 14
+    },
+    {
+      "id": 239,
+      "start_verse_id": 2021,
+      "start_verse_key": "16:120",
+      "end_verse_id": 2029,
+      "end_verse_key": "16:128",
+      "start_page": 281,
+      "end_page": 281,
+      "juz": 14
+    },
+    {
+      "id": 240,
+      "start_verse_id": 2030,
+      "start_verse_key": "17:1",
+      "end_verse_id": 2039,
+      "end_verse_key": "17:10",
+      "start_page": 282,
+      "end_page": 283,
+      "juz": 15
+    },
+    {
+      "id": 241,
+      "start_verse_id": 2040,
+      "start_verse_key": "17:11",
+      "end_verse_id": 2051,
+      "end_verse_key": "17:22",
+      "start_page": 283,
+      "end_page": 284,
+      "juz": 15
+    },
+    {
+      "id": 242,
+      "start_verse_id": 2052,
+      "start_verse_key": "17:23",
+      "end_verse_id": 2059,
+      "end_verse_key": "17:30",
+      "start_page": 284,
+      "end_page": 285,
+      "juz": 15
+    },
+    {
+      "id": 243,
+      "start_verse_id": 2060,
+      "start_verse_key": "17:31",
+      "end_verse_id": 2069,
+      "end_verse_key": "17:40",
+      "start_page": 285,
+      "end_page": 286,
+      "juz": 15
+    },
+    {
+      "id": 244,
+      "start_verse_id": 2070,
+      "start_verse_key": "17:41",
+      "end_verse_id": 2081,
+      "end_verse_key": "17:52",
+      "start_page": 286,
+      "end_page": 287,
+      "juz": 15
+    },
+    {
+      "id": 245,
+      "start_verse_id": 2082,
+      "start_verse_key": "17:53",
+      "end_verse_id": 2089,
+      "end_verse_key": "17:60",
+      "start_page": 287,
+      "end_page": 288,
+      "juz": 15
+    },
+    {
+      "id": 246,
+      "start_verse_id": 2090,
+      "start_verse_key": "17:61",
+      "end_verse_id": 2099,
+      "end_verse_key": "17:70",
+      "start_page": 288,
+      "end_page": 289,
+      "juz": 15
+    },
+    {
+      "id": 247,
+      "start_verse_id": 2100,
+      "start_verse_key": "17:71",
+      "end_verse_id": 2106,
+      "end_verse_key": "17:77",
+      "start_page": 289,
+      "end_page": 290,
+      "juz": 15
+    },
+    {
+      "id": 248,
+      "start_verse_id": 2107,
+      "start_verse_key": "17:78",
+      "end_verse_id": 2113,
+      "end_verse_key": "17:84",
+      "start_page": 290,
+      "end_page": 290,
+      "juz": 15
+    },
+    {
+      "id": 249,
+      "start_verse_id": 2114,
+      "start_verse_key": "17:85",
+      "end_verse_id": 2122,
+      "end_verse_key": "17:93",
+      "start_page": 290,
+      "end_page": 291,
+      "juz": 15
+    },
+    {
+      "id": 250,
+      "start_verse_id": 2123,
+      "start_verse_key": "17:94",
+      "end_verse_id": 2129,
+      "end_verse_key": "17:100",
+      "start_page": 291,
+      "end_page": 292,
+      "juz": 15
+    },
+    {
+      "id": 251,
+      "start_verse_id": 2130,
+      "start_verse_key": "17:101",
+      "end_verse_id": 2140,
+      "end_verse_key": "17:111",
+      "start_page": 292,
+      "end_page": 293,
+      "juz": 15
+    },
+    {
+      "id": 252,
+      "start_verse_id": 2141,
+      "start_verse_key": "18:1",
+      "end_verse_id": 2152,
+      "end_verse_key": "18:12",
+      "start_page": 293,
+      "end_page": 294,
+      "juz": 15
+    },
+    {
+      "id": 253,
+      "start_verse_id": 2153,
+      "start_verse_key": "18:13",
+      "end_verse_id": 2157,
+      "end_verse_key": "18:17",
+      "start_page": 294,
+      "end_page": 295,
+      "juz": 15
+    },
+    {
+      "id": 254,
+      "start_verse_id": 2158,
+      "start_verse_key": "18:18",
+      "end_verse_id": 2162,
+      "end_verse_key": "18:22",
+      "start_page": 295,
+      "end_page": 296,
+      "juz": 15
+    },
+    {
+      "id": 255,
+      "start_verse_id": 2163,
+      "start_verse_key": "18:23",
+      "end_verse_id": 2171,
+      "end_verse_key": "18:31",
+      "start_page": 296,
+      "end_page": 297,
+      "juz": 15
+    },
+    {
+      "id": 256,
+      "start_verse_id": 2172,
+      "start_verse_key": "18:32",
+      "end_verse_id": 2184,
+      "end_verse_key": "18:44",
+      "start_page": 297,
+      "end_page": 298,
+      "juz": 15
+    },
+    {
+      "id": 257,
+      "start_verse_id": 2185,
+      "start_verse_key": "18:45",
+      "end_verse_id": 2189,
+      "end_verse_key": "18:49",
+      "start_page": 298,
+      "end_page": 299,
+      "juz": 15
+    },
+    {
+      "id": 258,
+      "start_verse_id": 2190,
+      "start_verse_key": "18:50",
+      "end_verse_id": 2193,
+      "end_verse_key": "18:53",
+      "start_page": 299,
+      "end_page": 299,
+      "juz": 15
+    },
+    {
+      "id": 259,
+      "start_verse_id": 2194,
+      "start_verse_key": "18:54",
+      "end_verse_id": 2199,
+      "end_verse_key": "18:59",
+      "start_page": 300,
+      "end_page": 300,
+      "juz": 15
+    },
+    {
+      "id": 260,
+      "start_verse_id": 2200,
+      "start_verse_key": "18:60",
+      "end_verse_id": 2210,
+      "end_verse_key": "18:70",
+      "start_page": 300,
+      "end_page": 301,
+      "juz": 15
+    },
+    {
+      "id": 261,
+      "start_verse_id": 2211,
+      "start_verse_key": "18:71",
+      "end_verse_id": 2222,
+      "end_verse_key": "18:82",
+      "start_page": 301,
+      "end_page": 302,
+      "juz": 15
+    },
+    {
+      "id": 262,
+      "start_verse_id": 2223,
+      "start_verse_key": "18:83",
+      "end_verse_id": 2241,
+      "end_verse_key": "18:101",
+      "start_page": 302,
+      "end_page": 304,
+      "juz": 16
+    },
+    {
+      "id": 263,
+      "start_verse_id": 2242,
+      "start_verse_key": "18:102",
+      "end_verse_id": 2250,
+      "end_verse_key": "18:110",
+      "start_page": 304,
+      "end_page": 304,
+      "juz": 16
+    },
+    {
+      "id": 264,
+      "start_verse_id": 2251,
+      "start_verse_key": "19:1",
+      "end_verse_id": 2265,
+      "end_verse_key": "19:15",
+      "start_page": 305,
+      "end_page": 306,
+      "juz": 16
+    },
+    {
+      "id": 265,
+      "start_verse_id": 2266,
+      "start_verse_key": "19:16",
+      "end_verse_id": 2290,
+      "end_verse_key": "19:40",
+      "start_page": 306,
+      "end_page": 308,
+      "juz": 16
+    },
+    {
+      "id": 266,
+      "start_verse_id": 2291,
+      "start_verse_key": "19:41",
+      "end_verse_id": 2300,
+      "end_verse_key": "19:50",
+      "start_page": 308,
+      "end_page": 308,
+      "juz": 16
+    },
+    {
+      "id": 267,
+      "start_verse_id": 2301,
+      "start_verse_key": "19:51",
+      "end_verse_id": 2315,
+      "end_verse_key": "19:65",
+      "start_page": 308,
+      "end_page": 310,
+      "juz": 16
+    },
+    {
+      "id": 268,
+      "start_verse_id": 2316,
+      "start_verse_key": "19:66",
+      "end_verse_id": 2332,
+      "end_verse_key": "19:82",
+      "start_page": 310,
+      "end_page": 311,
+      "juz": 16
+    },
+    {
+      "id": 269,
+      "start_verse_id": 2333,
+      "start_verse_key": "19:83",
+      "end_verse_id": 2348,
+      "end_verse_key": "19:98",
+      "start_page": 311,
+      "end_page": 312,
+      "juz": 16
+    },
+    {
+      "id": 270,
+      "start_verse_id": 2349,
+      "start_verse_key": "20:1",
+      "end_verse_id": 2372,
+      "end_verse_key": "20:24",
+      "start_page": 312,
+      "end_page": 313,
+      "juz": 16
+    },
+    {
+      "id": 271,
+      "start_verse_id": 2373,
+      "start_verse_key": "20:25",
+      "end_verse_id": 2402,
+      "end_verse_key": "20:54",
+      "start_page": 313,
+      "end_page": 315,
+      "juz": 16
+    },
+    {
+      "id": 272,
+      "start_verse_id": 2403,
+      "start_verse_key": "20:55",
+      "end_verse_id": 2424,
+      "end_verse_key": "20:76",
+      "start_page": 315,
+      "end_page": 316,
+      "juz": 16
+    },
+    {
+      "id": 273,
+      "start_verse_id": 2425,
+      "start_verse_key": "20:77",
+      "end_verse_id": 2437,
+      "end_verse_key": "20:89",
+      "start_page": 317,
+      "end_page": 318,
+      "juz": 16
+    },
+    {
+      "id": 274,
+      "start_verse_id": 2438,
+      "start_verse_key": "20:90",
+      "end_verse_id": 2452,
+      "end_verse_key": "20:104",
+      "start_page": 318,
+      "end_page": 319,
+      "juz": 16
+    },
+    {
+      "id": 275,
+      "start_verse_id": 2453,
+      "start_verse_key": "20:105",
+      "end_verse_id": 2463,
+      "end_verse_key": "20:115",
+      "start_page": 319,
+      "end_page": 320,
+      "juz": 16
+    },
+    {
+      "id": 276,
+      "start_verse_id": 2464,
+      "start_verse_key": "20:116",
+      "end_verse_id": 2476,
+      "end_verse_key": "20:128",
+      "start_page": 320,
+      "end_page": 321,
+      "juz": 16
+    },
+    {
+      "id": 277,
+      "start_verse_id": 2477,
+      "start_verse_key": "20:129",
+      "end_verse_id": 2483,
+      "end_verse_key": "20:135",
+      "start_page": 321,
+      "end_page": 321,
+      "juz": 16
+    },
+    {
+      "id": 278,
+      "start_verse_id": 2484,
+      "start_verse_key": "21:1",
+      "end_verse_id": 2493,
+      "end_verse_key": "21:10",
+      "start_page": 322,
+      "end_page": 322,
+      "juz": 17
+    },
+    {
+      "id": 279,
+      "start_verse_id": 2494,
+      "start_verse_key": "21:11",
+      "end_verse_id": 2512,
+      "end_verse_key": "21:29",
+      "start_page": 323,
+      "end_page": 324,
+      "juz": 17
+    },
+    {
+      "id": 280,
+      "start_verse_id": 2513,
+      "start_verse_key": "21:30",
+      "end_verse_id": 2524,
+      "end_verse_key": "21:41",
+      "start_page": 324,
+      "end_page": 325,
+      "juz": 17
+    },
+    {
+      "id": 281,
+      "start_verse_id": 2525,
+      "start_verse_key": "21:42",
+      "end_verse_id": 2533,
+      "end_verse_key": "21:50",
+      "start_page": 325,
+      "end_page": 326,
+      "juz": 17
+    },
+    {
+      "id": 282,
+      "start_verse_id": 2534,
+      "start_verse_key": "21:51",
+      "end_verse_id": 2558,
+      "end_verse_key": "21:75",
+      "start_page": 326,
+      "end_page": 328,
+      "juz": 17
+    },
+    {
+      "id": 283,
+      "start_verse_id": 2559,
+      "start_verse_key": "21:76",
+      "end_verse_id": 2576,
+      "end_verse_key": "21:93",
+      "start_page": 328,
+      "end_page": 330,
+      "juz": 17
+    },
+    {
+      "id": 284,
+      "start_verse_id": 2577,
+      "start_verse_key": "21:94",
+      "end_verse_id": 2595,
+      "end_verse_key": "21:112",
+      "start_page": 330,
+      "end_page": 331,
+      "juz": 17
+    },
+    {
+      "id": 285,
+      "start_verse_id": 2596,
+      "start_verse_key": "22:1",
+      "end_verse_id": 2605,
+      "end_verse_key": "22:10",
+      "start_page": 332,
+      "end_page": 333,
+      "juz": 17
+    },
+    {
+      "id": 286,
+      "start_verse_id": 2606,
+      "start_verse_key": "22:11",
+      "end_verse_id": 2617,
+      "end_verse_key": "22:22",
+      "start_page": 333,
+      "end_page": 334,
+      "juz": 17
+    },
+    {
+      "id": 287,
+      "start_verse_id": 2618,
+      "start_verse_key": "22:23",
+      "end_verse_id": 2620,
+      "end_verse_key": "22:25",
+      "start_page": 334,
+      "end_page": 335,
+      "juz": 17
+    },
+    {
+      "id": 288,
+      "start_verse_id": 2621,
+      "start_verse_key": "22:26",
+      "end_verse_id": 2628,
+      "end_verse_key": "22:33",
+      "start_page": 335,
+      "end_page": 336,
+      "juz": 17
+    },
+    {
+      "id": 289,
+      "start_verse_id": 2629,
+      "start_verse_key": "22:34",
+      "end_verse_id": 2633,
+      "end_verse_key": "22:38",
+      "start_page": 336,
+      "end_page": 336,
+      "juz": 17
+    },
+    {
+      "id": 290,
+      "start_verse_id": 2634,
+      "start_verse_key": "22:39",
+      "end_verse_id": 2643,
+      "end_verse_key": "22:48",
+      "start_page": 337,
+      "end_page": 338,
+      "juz": 17
+    },
+    {
+      "id": 291,
+      "start_verse_id": 2644,
+      "start_verse_key": "22:49",
+      "end_verse_id": 2652,
+      "end_verse_key": "22:57",
+      "start_page": 338,
+      "end_page": 339,
+      "juz": 17
+    },
+    {
+      "id": 292,
+      "start_verse_id": 2653,
+      "start_verse_key": "22:58",
+      "end_verse_id": 2659,
+      "end_verse_key": "22:64",
+      "start_page": 339,
+      "end_page": 339,
+      "juz": 17
+    },
+    {
+      "id": 293,
+      "start_verse_id": 2660,
+      "start_verse_key": "22:65",
+      "end_verse_id": 2667,
+      "end_verse_key": "22:72",
+      "start_page": 340,
+      "end_page": 340,
+      "juz": 17
+    },
+    {
+      "id": 294,
+      "start_verse_id": 2668,
+      "start_verse_key": "22:73",
+      "end_verse_id": 2673,
+      "end_verse_key": "22:78",
+      "start_page": 341,
+      "end_page": 341,
+      "juz": 17
+    },
+    {
+      "id": 295,
+      "start_verse_id": 2674,
+      "start_verse_key": "23:1",
+      "end_verse_id": 2695,
+      "end_verse_key": "23:22",
+      "start_page": 342,
+      "end_page": 343,
+      "juz": 18
+    },
+    {
+      "id": 296,
+      "start_verse_id": 2696,
+      "start_verse_key": "23:23",
+      "end_verse_id": 2705,
+      "end_verse_key": "23:32",
+      "start_page": 343,
+      "end_page": 344,
+      "juz": 18
+    },
+    {
+      "id": 297,
+      "start_verse_id": 2706,
+      "start_verse_key": "23:33",
+      "end_verse_id": 2723,
+      "end_verse_key": "23:50",
+      "start_page": 344,
+      "end_page": 345,
+      "juz": 18
+    },
+    {
+      "id": 298,
+      "start_verse_id": 2724,
+      "start_verse_key": "23:51",
+      "end_verse_id": 2750,
+      "end_verse_key": "23:77",
+      "start_page": 345,
+      "end_page": 347,
+      "juz": 18
+    },
+    {
+      "id": 299,
+      "start_verse_id": 2751,
+      "start_verse_key": "23:78",
+      "end_verse_id": 2765,
+      "end_verse_key": "23:92",
+      "start_page": 347,
+      "end_page": 348,
+      "juz": 18
+    },
+    {
+      "id": 300,
+      "start_verse_id": 2766,
+      "start_verse_key": "23:93",
+      "end_verse_id": 2791,
+      "end_verse_key": "23:118",
+      "start_page": 348,
+      "end_page": 349,
+      "juz": 18
+    },
+    {
+      "id": 301,
+      "start_verse_id": 2792,
+      "start_verse_key": "24:1",
+      "end_verse_id": 2801,
+      "end_verse_key": "24:10",
+      "start_page": 350,
+      "end_page": 350,
+      "juz": 18
+    },
+    {
+      "id": 302,
+      "start_verse_id": 2802,
+      "start_verse_key": "24:11",
+      "end_verse_id": 2811,
+      "end_verse_key": "24:20",
+      "start_page": 351,
+      "end_page": 351,
+      "juz": 18
+    },
+    {
+      "id": 303,
+      "start_verse_id": 2812,
+      "start_verse_key": "24:21",
+      "end_verse_id": 2817,
+      "end_verse_key": "24:26",
+      "start_page": 352,
+      "end_page": 352,
+      "juz": 18
+    },
+    {
+      "id": 304,
+      "start_verse_id": 2818,
+      "start_verse_key": "24:27",
+      "end_verse_id": 2825,
+      "end_verse_key": "24:34",
+      "start_page": 352,
+      "end_page": 354,
+      "juz": 18
+    },
+    {
+      "id": 305,
+      "start_verse_id": 2826,
+      "start_verse_key": "24:35",
+      "end_verse_id": 2831,
+      "end_verse_key": "24:40",
+      "start_page": 354,
+      "end_page": 355,
+      "juz": 18
+    },
+    {
+      "id": 306,
+      "start_verse_id": 2832,
+      "start_verse_key": "24:41",
+      "end_verse_id": 2841,
+      "end_verse_key": "24:50",
+      "start_page": 355,
+      "end_page": 356,
+      "juz": 18
+    },
+    {
+      "id": 307,
+      "start_verse_id": 2842,
+      "start_verse_key": "24:51",
+      "end_verse_id": 2848,
+      "end_verse_key": "24:57",
+      "start_page": 356,
+      "end_page": 357,
+      "juz": 18
+    },
+    {
+      "id": 308,
+      "start_verse_id": 2849,
+      "start_verse_key": "24:58",
+      "end_verse_id": 2852,
+      "end_verse_key": "24:61",
+      "start_page": 357,
+      "end_page": 358,
+      "juz": 18
+    },
+    {
+      "id": 309,
+      "start_verse_id": 2853,
+      "start_verse_key": "24:62",
+      "end_verse_id": 2855,
+      "end_verse_key": "24:64",
+      "start_page": 359,
+      "end_page": 359,
+      "juz": 18
+    },
+    {
+      "id": 310,
+      "start_verse_id": 2856,
+      "start_verse_key": "25:1",
+      "end_verse_id": 2864,
+      "end_verse_key": "25:9",
+      "start_page": 359,
+      "end_page": 360,
+      "juz": 18
+    },
+    {
+      "id": 311,
+      "start_verse_id": 2865,
+      "start_verse_key": "25:10",
+      "end_verse_id": 2875,
+      "end_verse_key": "25:20",
+      "start_page": 360,
+      "end_page": 361,
+      "juz": 18
+    },
+    {
+      "id": 312,
+      "start_verse_id": 2876,
+      "start_verse_key": "25:21",
+      "end_verse_id": 2889,
+      "end_verse_key": "25:34",
+      "start_page": 362,
+      "end_page": 363,
+      "juz": 19
+    },
+    {
+      "id": 313,
+      "start_verse_id": 2890,
+      "start_verse_key": "25:35",
+      "end_verse_id": 2899,
+      "end_verse_key": "25:44",
+      "start_page": 363,
+      "end_page": 364,
+      "juz": 19
+    },
+    {
+      "id": 314,
+      "start_verse_id": 2900,
+      "start_verse_key": "25:45",
+      "end_verse_id": 2915,
+      "end_verse_key": "25:60",
+      "start_page": 364,
+      "end_page": 365,
+      "juz": 19
+    },
+    {
+      "id": 315,
+      "start_verse_id": 2916,
+      "start_verse_key": "25:61",
+      "end_verse_id": 2932,
+      "end_verse_key": "25:77",
+      "start_page": 365,
+      "end_page": 366,
+      "juz": 19
+    },
+    {
+      "id": 316,
+      "start_verse_id": 2933,
+      "start_verse_key": "26:1",
+      "end_verse_id": 2941,
+      "end_verse_key": "26:9",
+      "start_page": 367,
+      "end_page": 367,
+      "juz": 19
+    },
+    {
+      "id": 317,
+      "start_verse_id": 2942,
+      "start_verse_key": "26:10",
+      "end_verse_id": 2965,
+      "end_verse_key": "26:33",
+      "start_page": 367,
+      "end_page": 368,
+      "juz": 19
+    },
+    {
+      "id": 318,
+      "start_verse_id": 2966,
+      "start_verse_key": "26:34",
+      "end_verse_id": 2983,
+      "end_verse_key": "26:51",
+      "start_page": 368,
+      "end_page": 369,
+      "juz": 19
+    },
+    {
+      "id": 319,
+      "start_verse_id": 2984,
+      "start_verse_key": "26:52",
+      "end_verse_id": 3000,
+      "end_verse_key": "26:68",
+      "start_page": 369,
+      "end_page": 370,
+      "juz": 19
+    },
+    {
+      "id": 320,
+      "start_verse_id": 3001,
+      "start_verse_key": "26:69",
+      "end_verse_id": 3036,
+      "end_verse_key": "26:104",
+      "start_page": 370,
+      "end_page": 371,
+      "juz": 19
+    },
+    {
+      "id": 321,
+      "start_verse_id": 3037,
+      "start_verse_key": "26:105",
+      "end_verse_id": 3054,
+      "end_verse_key": "26:122",
+      "start_page": 371,
+      "end_page": 372,
+      "juz": 19
+    },
+    {
+      "id": 322,
+      "start_verse_id": 3055,
+      "start_verse_key": "26:123",
+      "end_verse_id": 3072,
+      "end_verse_key": "26:140",
+      "start_page": 372,
+      "end_page": 373,
+      "juz": 19
+    },
+    {
+      "id": 323,
+      "start_verse_id": 3073,
+      "start_verse_key": "26:141",
+      "end_verse_id": 3091,
+      "end_verse_key": "26:159",
+      "start_page": 373,
+      "end_page": 373,
+      "juz": 19
+    },
+    {
+      "id": 324,
+      "start_verse_id": 3092,
+      "start_verse_key": "26:160",
+      "end_verse_id": 3107,
+      "end_verse_key": "26:175",
+      "start_page": 374,
+      "end_page": 374,
+      "juz": 19
+    },
+    {
+      "id": 325,
+      "start_verse_id": 3108,
+      "start_verse_key": "26:176",
+      "end_verse_id": 3123,
+      "end_verse_key": "26:191",
+      "start_page": 374,
+      "end_page": 375,
+      "juz": 19
+    },
+    {
+      "id": 326,
+      "start_verse_id": 3124,
+      "start_verse_key": "26:192",
+      "end_verse_id": 3159,
+      "end_verse_key": "26:227",
+      "start_page": 375,
+      "end_page": 376,
+      "juz": 19
+    },
+    {
+      "id": 327,
+      "start_verse_id": 3160,
+      "start_verse_key": "27:1",
+      "end_verse_id": 3173,
+      "end_verse_key": "27:14",
+      "start_page": 377,
+      "end_page": 378,
+      "juz": 19
+    },
+    {
+      "id": 328,
+      "start_verse_id": 3174,
+      "start_verse_key": "27:15",
+      "end_verse_id": 3190,
+      "end_verse_key": "27:31",
+      "start_page": 378,
+      "end_page": 379,
+      "juz": 19
+    },
+    {
+      "id": 329,
+      "start_verse_id": 3191,
+      "start_verse_key": "27:32",
+      "end_verse_id": 3203,
+      "end_verse_key": "27:44",
+      "start_page": 379,
+      "end_page": 380,
+      "juz": 19
+    },
+    {
+      "id": 330,
+      "start_verse_id": 3204,
+      "start_verse_key": "27:45",
+      "end_verse_id": 3217,
+      "end_verse_key": "27:58",
+      "start_page": 381,
+      "end_page": 382,
+      "juz": 19
+    },
+    {
+      "id": 331,
+      "start_verse_id": 3218,
+      "start_verse_key": "27:59",
+      "end_verse_id": 3225,
+      "end_verse_key": "27:66",
+      "start_page": 382,
+      "end_page": 383,
+      "juz": 20
+    },
+    {
+      "id": 332,
+      "start_verse_id": 3226,
+      "start_verse_key": "27:67",
+      "end_verse_id": 3241,
+      "end_verse_key": "27:82",
+      "start_page": 383,
+      "end_page": 384,
+      "juz": 20
+    },
+    {
+      "id": 333,
+      "start_verse_id": 3242,
+      "start_verse_key": "27:83",
+      "end_verse_id": 3252,
+      "end_verse_key": "27:93",
+      "start_page": 384,
+      "end_page": 385,
+      "juz": 20
+    },
+    {
+      "id": 334,
+      "start_verse_id": 3253,
+      "start_verse_key": "28:1",
+      "end_verse_id": 3265,
+      "end_verse_key": "28:13",
+      "start_page": 385,
+      "end_page": 386,
+      "juz": 20
+    },
+    {
+      "id": 335,
+      "start_verse_id": 3266,
+      "start_verse_key": "28:14",
+      "end_verse_id": 3273,
+      "end_verse_key": "28:21",
+      "start_page": 387,
+      "end_page": 387,
+      "juz": 20
+    },
+    {
+      "id": 336,
+      "start_verse_id": 3274,
+      "start_verse_key": "28:22",
+      "end_verse_id": 3280,
+      "end_verse_key": "28:28",
+      "start_page": 388,
+      "end_page": 388,
+      "juz": 20
+    },
+    {
+      "id": 337,
+      "start_verse_id": 3281,
+      "start_verse_key": "28:29",
+      "end_verse_id": 3294,
+      "end_verse_key": "28:42",
+      "start_page": 389,
+      "end_page": 390,
+      "juz": 20
+    },
+    {
+      "id": 338,
+      "start_verse_id": 3295,
+      "start_verse_key": "28:43",
+      "end_verse_id": 3302,
+      "end_verse_key": "28:50",
+      "start_page": 390,
+      "end_page": 391,
+      "juz": 20
+    },
+    {
+      "id": 339,
+      "start_verse_id": 3303,
+      "start_verse_key": "28:51",
+      "end_verse_id": 3312,
+      "end_verse_key": "28:60",
+      "start_page": 392,
+      "end_page": 393,
+      "juz": 20
+    },
+    {
+      "id": 340,
+      "start_verse_id": 3313,
+      "start_verse_key": "28:61",
+      "end_verse_id": 3327,
+      "end_verse_key": "28:75",
+      "start_page": 393,
+      "end_page": 394,
+      "juz": 20
+    },
+    {
+      "id": 341,
+      "start_verse_id": 3328,
+      "start_verse_key": "28:76",
+      "end_verse_id": 3334,
+      "end_verse_key": "28:82",
+      "start_page": 394,
+      "end_page": 395,
+      "juz": 20
+    },
+    {
+      "id": 342,
+      "start_verse_id": 3335,
+      "start_verse_key": "28:83",
+      "end_verse_id": 3340,
+      "end_verse_key": "28:88",
+      "start_page": 395,
+      "end_page": 396,
+      "juz": 20
+    },
+    {
+      "id": 343,
+      "start_verse_id": 3341,
+      "start_verse_key": "29:1",
+      "end_verse_id": 3353,
+      "end_verse_key": "29:13",
+      "start_page": 396,
+      "end_page": 397,
+      "juz": 20
+    },
+    {
+      "id": 344,
+      "start_verse_id": 3354,
+      "start_verse_key": "29:14",
+      "end_verse_id": 3362,
+      "end_verse_key": "29:22",
+      "start_page": 397,
+      "end_page": 398,
+      "juz": 20
+    },
+    {
+      "id": 345,
+      "start_verse_id": 3363,
+      "start_verse_key": "29:23",
+      "end_verse_id": 3370,
+      "end_verse_key": "29:30",
+      "start_page": 398,
+      "end_page": 399,
+      "juz": 20
+    },
+    {
+      "id": 346,
+      "start_verse_id": 3371,
+      "start_verse_key": "29:31",
+      "end_verse_id": 3384,
+      "end_verse_key": "29:44",
+      "start_page": 400,
+      "end_page": 401,
+      "juz": 20
+    },
+    {
+      "id": 347,
+      "start_verse_id": 3385,
+      "start_verse_key": "29:45",
+      "end_verse_id": 3391,
+      "end_verse_key": "29:51",
+      "start_page": 401,
+      "end_page": 402,
+      "juz": 20
+    },
+    {
+      "id": 348,
+      "start_verse_id": 3392,
+      "start_verse_key": "29:52",
+      "end_verse_id": 3403,
+      "end_verse_key": "29:63",
+      "start_page": 402,
+      "end_page": 403,
+      "juz": 21
+    },
+    {
+      "id": 349,
+      "start_verse_id": 3404,
+      "start_verse_key": "29:64",
+      "end_verse_id": 3409,
+      "end_verse_key": "29:69",
+      "start_page": 404,
+      "end_page": 404,
+      "juz": 21
+    },
+    {
+      "id": 350,
+      "start_verse_id": 3410,
+      "start_verse_key": "30:1",
+      "end_verse_id": 3419,
+      "end_verse_key": "30:10",
+      "start_page": 404,
+      "end_page": 405,
+      "juz": 21
+    },
+    {
+      "id": 351,
+      "start_verse_id": 3420,
+      "start_verse_key": "30:11",
+      "end_verse_id": 3428,
+      "end_verse_key": "30:19",
+      "start_page": 405,
+      "end_page": 406,
+      "juz": 21
+    },
+    {
+      "id": 352,
+      "start_verse_id": 3429,
+      "start_verse_key": "30:20",
+      "end_verse_id": 3436,
+      "end_verse_key": "30:27",
+      "start_page": 406,
+      "end_page": 407,
+      "juz": 21
+    },
+    {
+      "id": 353,
+      "start_verse_id": 3437,
+      "start_verse_key": "30:28",
+      "end_verse_id": 3449,
+      "end_verse_key": "30:40",
+      "start_page": 407,
+      "end_page": 408,
+      "juz": 21
+    },
+    {
+      "id": 354,
+      "start_verse_id": 3450,
+      "start_verse_key": "30:41",
+      "end_verse_id": 3462,
+      "end_verse_key": "30:53",
+      "start_page": 408,
+      "end_page": 410,
+      "juz": 21
+    },
+    {
+      "id": 355,
+      "start_verse_id": 3463,
+      "start_verse_key": "30:54",
+      "end_verse_id": 3469,
+      "end_verse_key": "30:60",
+      "start_page": 410,
+      "end_page": 410,
+      "juz": 21
+    },
+    {
+      "id": 356,
+      "start_verse_id": 3470,
+      "start_verse_key": "31:1",
+      "end_verse_id": 3480,
+      "end_verse_key": "31:11",
+      "start_page": 411,
+      "end_page": 411,
+      "juz": 21
+    },
+    {
+      "id": 357,
+      "start_verse_id": 3481,
+      "start_verse_key": "31:12",
+      "end_verse_id": 3488,
+      "end_verse_key": "31:19",
+      "start_page": 412,
+      "end_page": 412,
+      "juz": 21
+    },
+    {
+      "id": 358,
+      "start_verse_id": 3489,
+      "start_verse_key": "31:20",
+      "end_verse_id": 3499,
+      "end_verse_key": "31:30",
+      "start_page": 413,
+      "end_page": 414,
+      "juz": 21
+    },
+    {
+      "id": 359,
+      "start_verse_id": 3500,
+      "start_verse_key": "31:31",
+      "end_verse_id": 3503,
+      "end_verse_key": "31:34",
+      "start_page": 414,
+      "end_page": 414,
+      "juz": 21
+    },
+    {
+      "id": 360,
+      "start_verse_id": 3504,
+      "start_verse_key": "32:1",
+      "end_verse_id": 3514,
+      "end_verse_key": "32:11",
+      "start_page": 415,
+      "end_page": 415,
+      "juz": 21
+    },
+    {
+      "id": 361,
+      "start_verse_id": 3515,
+      "start_verse_key": "32:12",
+      "end_verse_id": 3525,
+      "end_verse_key": "32:22",
+      "start_page": 416,
+      "end_page": 417,
+      "juz": 21
+    },
+    {
+      "id": 362,
+      "start_verse_id": 3526,
+      "start_verse_key": "32:23",
+      "end_verse_id": 3533,
+      "end_verse_key": "32:30",
+      "start_page": 417,
+      "end_page": 417,
+      "juz": 21
+    },
+    {
+      "id": 363,
+      "start_verse_id": 3534,
+      "start_verse_key": "33:1",
+      "end_verse_id": 3541,
+      "end_verse_key": "33:8",
+      "start_page": 418,
+      "end_page": 419,
+      "juz": 21
+    },
+    {
+      "id": 364,
+      "start_verse_id": 3542,
+      "start_verse_key": "33:9",
+      "end_verse_id": 3553,
+      "end_verse_key": "33:20",
+      "start_page": 419,
+      "end_page": 420,
+      "juz": 21
+    },
+    {
+      "id": 365,
+      "start_verse_id": 3554,
+      "start_verse_key": "33:21",
+      "end_verse_id": 3560,
+      "end_verse_key": "33:27",
+      "start_page": 420,
+      "end_page": 421,
+      "juz": 21
+    },
+    {
+      "id": 366,
+      "start_verse_id": 3561,
+      "start_verse_key": "33:28",
+      "end_verse_id": 3567,
+      "end_verse_key": "33:34",
+      "start_page": 421,
+      "end_page": 422,
+      "juz": 21
+    },
+    {
+      "id": 367,
+      "start_verse_id": 3568,
+      "start_verse_key": "33:35",
+      "end_verse_id": 3573,
+      "end_verse_key": "33:40",
+      "start_page": 422,
+      "end_page": 423,
+      "juz": 22
+    },
+    {
+      "id": 368,
+      "start_verse_id": 3574,
+      "start_verse_key": "33:41",
+      "end_verse_id": 3585,
+      "end_verse_key": "33:52",
+      "start_page": 423,
+      "end_page": 425,
+      "juz": 22
+    },
+    {
+      "id": 369,
+      "start_verse_id": 3586,
+      "start_verse_key": "33:53",
+      "end_verse_id": 3591,
+      "end_verse_key": "33:58",
+      "start_page": 425,
+      "end_page": 426,
+      "juz": 22
+    },
+    {
+      "id": 370,
+      "start_verse_id": 3592,
+      "start_verse_key": "33:59",
+      "end_verse_id": 3601,
+      "end_verse_key": "33:68",
+      "start_page": 426,
+      "end_page": 427,
+      "juz": 22
+    },
+    {
+      "id": 371,
+      "start_verse_id": 3602,
+      "start_verse_key": "33:69",
+      "end_verse_id": 3606,
+      "end_verse_key": "33:73",
+      "start_page": 427,
+      "end_page": 427,
+      "juz": 22
+    },
+    {
+      "id": 372,
+      "start_verse_id": 3607,
+      "start_verse_key": "34:1",
+      "end_verse_id": 3615,
+      "end_verse_key": "34:9",
+      "start_page": 428,
+      "end_page": 429,
+      "juz": 22
+    },
+    {
+      "id": 373,
+      "start_verse_id": 3616,
+      "start_verse_key": "34:10",
+      "end_verse_id": 3627,
+      "end_verse_key": "34:21",
+      "start_page": 429,
+      "end_page": 430,
+      "juz": 22
+    },
+    {
+      "id": 374,
+      "start_verse_id": 3628,
+      "start_verse_key": "34:22",
+      "end_verse_id": 3636,
+      "end_verse_key": "34:30",
+      "start_page": 430,
+      "end_page": 431,
+      "juz": 22
+    },
+    {
+      "id": 375,
+      "start_verse_id": 3637,
+      "start_verse_key": "34:31",
+      "end_verse_id": 3642,
+      "end_verse_key": "34:36",
+      "start_page": 431,
+      "end_page": 432,
+      "juz": 22
+    },
+    {
+      "id": 376,
+      "start_verse_id": 3643,
+      "start_verse_key": "34:37",
+      "end_verse_id": 3651,
+      "end_verse_key": "34:45",
+      "start_page": 432,
+      "end_page": 433,
+      "juz": 22
+    },
+    {
+      "id": 377,
+      "start_verse_id": 3652,
+      "start_verse_key": "34:46",
+      "end_verse_id": 3660,
+      "end_verse_key": "34:54",
+      "start_page": 433,
+      "end_page": 434,
+      "juz": 22
+    },
+    {
+      "id": 378,
+      "start_verse_id": 3661,
+      "start_verse_key": "35:1",
+      "end_verse_id": 3667,
+      "end_verse_key": "35:7",
+      "start_page": 434,
+      "end_page": 435,
+      "juz": 22
+    },
+    {
+      "id": 379,
+      "start_verse_id": 3668,
+      "start_verse_key": "35:8",
+      "end_verse_id": 3674,
+      "end_verse_key": "35:14",
+      "start_page": 435,
+      "end_page": 436,
+      "juz": 22
+    },
+    {
+      "id": 380,
+      "start_verse_id": 3675,
+      "start_verse_key": "35:15",
+      "end_verse_id": 3686,
+      "end_verse_key": "35:26",
+      "start_page": 436,
+      "end_page": 437,
+      "juz": 22
+    },
+    {
+      "id": 381,
+      "start_verse_id": 3687,
+      "start_verse_key": "35:27",
+      "end_verse_id": 3697,
+      "end_verse_key": "35:37",
+      "start_page": 437,
+      "end_page": 438,
+      "juz": 22
+    },
+    {
+      "id": 382,
+      "start_verse_id": 3698,
+      "start_verse_key": "35:38",
+      "end_verse_id": 3705,
+      "end_verse_key": "35:45",
+      "start_page": 438,
+      "end_page": 440,
+      "juz": 22
+    },
+    {
+      "id": 383,
+      "start_verse_id": 3706,
+      "start_verse_key": "36:1",
+      "end_verse_id": 3717,
+      "end_verse_key": "36:12",
+      "start_page": 440,
+      "end_page": 440,
+      "juz": 22
+    },
+    {
+      "id": 384,
+      "start_verse_id": 3718,
+      "start_verse_key": "36:13",
+      "end_verse_id": 3737,
+      "end_verse_key": "36:32",
+      "start_page": 441,
+      "end_page": 442,
+      "juz": 22
+    },
+    {
+      "id": 385,
+      "start_verse_id": 3738,
+      "start_verse_key": "36:33",
+      "end_verse_id": 3755,
+      "end_verse_key": "36:50",
+      "start_page": 442,
+      "end_page": 443,
+      "juz": 23
+    },
+    {
+      "id": 386,
+      "start_verse_id": 3756,
+      "start_verse_key": "36:51",
+      "end_verse_id": 3772,
+      "end_verse_key": "36:67",
+      "start_page": 443,
+      "end_page": 444,
+      "juz": 23
+    },
+    {
+      "id": 387,
+      "start_verse_id": 3773,
+      "start_verse_key": "36:68",
+      "end_verse_id": 3788,
+      "end_verse_key": "36:83",
+      "start_page": 444,
+      "end_page": 445,
+      "juz": 23
+    },
+    {
+      "id": 388,
+      "start_verse_id": 3789,
+      "start_verse_key": "37:1",
+      "end_verse_id": 3809,
+      "end_verse_key": "37:21",
+      "start_page": 446,
+      "end_page": 446,
+      "juz": 23
+    },
+    {
+      "id": 389,
+      "start_verse_id": 3810,
+      "start_verse_key": "37:22",
+      "end_verse_id": 3862,
+      "end_verse_key": "37:74",
+      "start_page": 446,
+      "end_page": 448,
+      "juz": 23
+    },
+    {
+      "id": 390,
+      "start_verse_id": 3863,
+      "start_verse_key": "37:75",
+      "end_verse_id": 3901,
+      "end_verse_key": "37:113",
+      "start_page": 448,
+      "end_page": 450,
+      "juz": 23
+    },
+    {
+      "id": 391,
+      "start_verse_id": 3902,
+      "start_verse_key": "37:114",
+      "end_verse_id": 3926,
+      "end_verse_key": "37:138",
+      "start_page": 450,
+      "end_page": 451,
+      "juz": 23
+    },
+    {
+      "id": 392,
+      "start_verse_id": 3927,
+      "start_verse_key": "37:139",
+      "end_verse_id": 3970,
+      "end_verse_key": "37:182",
+      "start_page": 451,
+      "end_page": 452,
+      "juz": 23
+    },
+    {
+      "id": 393,
+      "start_verse_id": 3971,
+      "start_verse_key": "38:1",
+      "end_verse_id": 3984,
+      "end_verse_key": "38:14",
+      "start_page": 453,
+      "end_page": 453,
+      "juz": 23
+    },
+    {
+      "id": 394,
+      "start_verse_id": 3985,
+      "start_verse_key": "38:15",
+      "end_verse_id": 3996,
+      "end_verse_key": "38:26",
+      "start_page": 453,
+      "end_page": 454,
+      "juz": 23
+    },
+    {
+      "id": 395,
+      "start_verse_id": 3997,
+      "start_verse_key": "38:27",
+      "end_verse_id": 4010,
+      "end_verse_key": "38:40",
+      "start_page": 455,
+      "end_page": 455,
+      "juz": 23
+    },
+    {
+      "id": 396,
+      "start_verse_id": 4011,
+      "start_verse_key": "38:41",
+      "end_verse_id": 4034,
+      "end_verse_key": "38:64",
+      "start_page": 455,
+      "end_page": 457,
+      "juz": 23
+    },
+    {
+      "id": 397,
+      "start_verse_id": 4035,
+      "start_verse_key": "38:65",
+      "end_verse_id": 4058,
+      "end_verse_key": "38:88",
+      "start_page": 457,
+      "end_page": 458,
+      "juz": 23
+    },
+    {
+      "id": 398,
+      "start_verse_id": 4059,
+      "start_verse_key": "39:1",
+      "end_verse_id": 4067,
+      "end_verse_key": "39:9",
+      "start_page": 458,
+      "end_page": 459,
+      "juz": 23
+    },
+    {
+      "id": 399,
+      "start_verse_id": 4068,
+      "start_verse_key": "39:10",
+      "end_verse_id": 4079,
+      "end_verse_key": "39:21",
+      "start_page": 459,
+      "end_page": 460,
+      "juz": 23
+    },
+    {
+      "id": 400,
+      "start_verse_id": 4080,
+      "start_verse_key": "39:22",
+      "end_verse_id": 4089,
+      "end_verse_key": "39:31",
+      "start_page": 461,
+      "end_page": 461,
+      "juz": 23
+    },
+    {
+      "id": 401,
+      "start_verse_id": 4090,
+      "start_verse_key": "39:32",
+      "end_verse_id": 4099,
+      "end_verse_key": "39:41",
+      "start_page": 462,
+      "end_page": 463,
+      "juz": 24
+    },
+    {
+      "id": 402,
+      "start_verse_id": 4100,
+      "start_verse_key": "39:42",
+      "end_verse_id": 4110,
+      "end_verse_key": "39:52",
+      "start_page": 463,
+      "end_page": 464,
+      "juz": 24
+    },
+    {
+      "id": 403,
+      "start_verse_id": 4111,
+      "start_verse_key": "39:53",
+      "end_verse_id": 4121,
+      "end_verse_key": "39:63",
+      "start_page": 464,
+      "end_page": 465,
+      "juz": 24
+    },
+    {
+      "id": 404,
+      "start_verse_id": 4122,
+      "start_verse_key": "39:64",
+      "end_verse_id": 4128,
+      "end_verse_key": "39:70",
+      "start_page": 465,
+      "end_page": 466,
+      "juz": 24
+    },
+    {
+      "id": 405,
+      "start_verse_id": 4129,
+      "start_verse_key": "39:71",
+      "end_verse_id": 4133,
+      "end_verse_key": "39:75",
+      "start_page": 466,
+      "end_page": 467,
+      "juz": 24
+    },
+    {
+      "id": 406,
+      "start_verse_id": 4134,
+      "start_verse_key": "40:1",
+      "end_verse_id": 4142,
+      "end_verse_key": "40:9",
+      "start_page": 467,
+      "end_page": 468,
+      "juz": 24
+    },
+    {
+      "id": 407,
+      "start_verse_id": 4143,
+      "start_verse_key": "40:10",
+      "end_verse_id": 4153,
+      "end_verse_key": "40:20",
+      "start_page": 468,
+      "end_page": 469,
+      "juz": 24
+    },
+    {
+      "id": 408,
+      "start_verse_id": 4154,
+      "start_verse_key": "40:21",
+      "end_verse_id": 4160,
+      "end_verse_key": "40:27",
+      "start_page": 469,
+      "end_page": 470,
+      "juz": 24
+    },
+    {
+      "id": 409,
+      "start_verse_id": 4161,
+      "start_verse_key": "40:28",
+      "end_verse_id": 4170,
+      "end_verse_key": "40:37",
+      "start_page": 470,
+      "end_page": 471,
+      "juz": 24
+    },
+    {
+      "id": 410,
+      "start_verse_id": 4171,
+      "start_verse_key": "40:38",
+      "end_verse_id": 4183,
+      "end_verse_key": "40:50",
+      "start_page": 471,
+      "end_page": 473,
+      "juz": 24
+    },
+    {
+      "id": 411,
+      "start_verse_id": 4184,
+      "start_verse_key": "40:51",
+      "end_verse_id": 4193,
+      "end_verse_key": "40:60",
+      "start_page": 473,
+      "end_page": 474,
+      "juz": 24
+    },
+    {
+      "id": 412,
+      "start_verse_id": 4194,
+      "start_verse_key": "40:61",
+      "end_verse_id": 4201,
+      "end_verse_key": "40:68",
+      "start_page": 474,
+      "end_page": 475,
+      "juz": 24
+    },
+    {
+      "id": 413,
+      "start_verse_id": 4202,
+      "start_verse_key": "40:69",
+      "end_verse_id": 4211,
+      "end_verse_key": "40:78",
+      "start_page": 475,
+      "end_page": 476,
+      "juz": 24
+    },
+    {
+      "id": 414,
+      "start_verse_id": 4212,
+      "start_verse_key": "40:79",
+      "end_verse_id": 4218,
+      "end_verse_key": "40:85",
+      "start_page": 476,
+      "end_page": 476,
+      "juz": 24
+    },
+    {
+      "id": 415,
+      "start_verse_id": 4219,
+      "start_verse_key": "41:1",
+      "end_verse_id": 4226,
+      "end_verse_key": "41:8",
+      "start_page": 477,
+      "end_page": 477,
+      "juz": 24
+    },
+    {
+      "id": 416,
+      "start_verse_id": 4227,
+      "start_verse_key": "41:9",
+      "end_verse_id": 4236,
+      "end_verse_key": "41:18",
+      "start_page": 477,
+      "end_page": 478,
+      "juz": 24
+    },
+    {
+      "id": 417,
+      "start_verse_id": 4237,
+      "start_verse_key": "41:19",
+      "end_verse_id": 4243,
+      "end_verse_key": "41:25",
+      "start_page": 478,
+      "end_page": 479,
+      "juz": 24
+    },
+    {
+      "id": 418,
+      "start_verse_id": 4244,
+      "start_verse_key": "41:26",
+      "end_verse_id": 4250,
+      "end_verse_key": "41:32",
+      "start_page": 479,
+      "end_page": 480,
+      "juz": 24
+    },
+    {
+      "id": 419,
+      "start_verse_id": 4251,
+      "start_verse_key": "41:33",
+      "end_verse_id": 4262,
+      "end_verse_key": "41:44",
+      "start_page": 480,
+      "end_page": 481,
+      "juz": 24
+    },
+    {
+      "id": 420,
+      "start_verse_id": 4263,
+      "start_verse_key": "41:45",
+      "end_verse_id": 4272,
+      "end_verse_key": "41:54",
+      "start_page": 481,
+      "end_page": 482,
+      "juz": 24
+    },
+    {
+      "id": 421,
+      "start_verse_id": 4273,
+      "start_verse_key": "42:1",
+      "end_verse_id": 4281,
+      "end_verse_key": "42:9",
+      "start_page": 483,
+      "end_page": 483,
+      "juz": 25
+    },
+    {
+      "id": 422,
+      "start_verse_id": 4282,
+      "start_verse_key": "42:10",
+      "end_verse_id": 4291,
+      "end_verse_key": "42:19",
+      "start_page": 483,
+      "end_page": 485,
+      "juz": 25
+    },
+    {
+      "id": 423,
+      "start_verse_id": 4292,
+      "start_verse_key": "42:20",
+      "end_verse_id": 4301,
+      "end_verse_key": "42:29",
+      "start_page": 485,
+      "end_page": 486,
+      "juz": 25
+    },
+    {
+      "id": 424,
+      "start_verse_id": 4302,
+      "start_verse_key": "42:30",
+      "end_verse_id": 4315,
+      "end_verse_key": "42:43",
+      "start_page": 486,
+      "end_page": 487,
+      "juz": 25
+    },
+    {
+      "id": 425,
+      "start_verse_id": 4316,
+      "start_verse_key": "42:44",
+      "end_verse_id": 4325,
+      "end_verse_key": "42:53",
+      "start_page": 487,
+      "end_page": 489,
+      "juz": 25
+    },
+    {
+      "id": 426,
+      "start_verse_id": 4326,
+      "start_verse_key": "43:1",
+      "end_verse_id": 4340,
+      "end_verse_key": "43:15",
+      "start_page": 489,
+      "end_page": 490,
+      "juz": 25
+    },
+    {
+      "id": 427,
+      "start_verse_id": 4341,
+      "start_verse_key": "43:16",
+      "end_verse_id": 4350,
+      "end_verse_key": "43:25",
+      "start_page": 490,
+      "end_page": 491,
+      "juz": 25
+    },
+    {
+      "id": 428,
+      "start_verse_id": 4351,
+      "start_verse_key": "43:26",
+      "end_verse_id": 4360,
+      "end_verse_key": "43:35",
+      "start_page": 491,
+      "end_page": 492,
+      "juz": 25
+    },
+    {
+      "id": 429,
+      "start_verse_id": 4361,
+      "start_verse_key": "43:36",
+      "end_verse_id": 4370,
+      "end_verse_key": "43:45",
+      "start_page": 492,
+      "end_page": 492,
+      "juz": 25
+    },
+    {
+      "id": 430,
+      "start_verse_id": 4371,
+      "start_verse_key": "43:46",
+      "end_verse_id": 4381,
+      "end_verse_key": "43:56",
+      "start_page": 492,
+      "end_page": 493,
+      "juz": 25
+    },
+    {
+      "id": 431,
+      "start_verse_id": 4382,
+      "start_verse_key": "43:57",
+      "end_verse_id": 4392,
+      "end_verse_key": "43:67",
+      "start_page": 493,
+      "end_page": 494,
+      "juz": 25
+    },
+    {
+      "id": 432,
+      "start_verse_id": 4393,
+      "start_verse_key": "43:68",
+      "end_verse_id": 4414,
+      "end_verse_key": "43:89",
+      "start_page": 494,
+      "end_page": 495,
+      "juz": 25
+    },
+    {
+      "id": 433,
+      "start_verse_id": 4415,
+      "start_verse_key": "44:1",
+      "end_verse_id": 4443,
+      "end_verse_key": "44:29",
+      "start_page": 496,
+      "end_page": 497,
+      "juz": 25
+    },
+    {
+      "id": 434,
+      "start_verse_id": 4444,
+      "start_verse_key": "44:30",
+      "end_verse_id": 4456,
+      "end_verse_key": "44:42",
+      "start_page": 497,
+      "end_page": 498,
+      "juz": 25
+    },
+    {
+      "id": 435,
+      "start_verse_id": 4457,
+      "start_verse_key": "44:43",
+      "end_verse_id": 4473,
+      "end_verse_key": "44:59",
+      "start_page": 498,
+      "end_page": 498,
+      "juz": 25
+    },
+    {
+      "id": 436,
+      "start_verse_id": 4474,
+      "start_verse_key": "45:1",
+      "end_verse_id": 4484,
+      "end_verse_key": "45:11",
+      "start_page": 499,
+      "end_page": 499,
+      "juz": 25
+    },
+    {
+      "id": 437,
+      "start_verse_id": 4485,
+      "start_verse_key": "45:12",
+      "end_verse_id": 4494,
+      "end_verse_key": "45:21",
+      "start_page": 499,
+      "end_page": 500,
+      "juz": 25
+    },
+    {
+      "id": 438,
+      "start_verse_id": 4495,
+      "start_verse_key": "45:22",
+      "end_verse_id": 4499,
+      "end_verse_key": "45:26",
+      "start_page": 500,
+      "end_page": 501,
+      "juz": 25
+    },
+    {
+      "id": 439,
+      "start_verse_id": 4500,
+      "start_verse_key": "45:27",
+      "end_verse_id": 4510,
+      "end_verse_key": "45:37",
+      "start_page": 501,
+      "end_page": 502,
+      "juz": 25
+    },
+    {
+      "id": 440,
+      "start_verse_id": 4511,
+      "start_verse_key": "46:1",
+      "end_verse_id": 4520,
+      "end_verse_key": "46:10",
+      "start_page": 502,
+      "end_page": 503,
+      "juz": 26
+    },
+    {
+      "id": 441,
+      "start_verse_id": 4521,
+      "start_verse_key": "46:11",
+      "end_verse_id": 4530,
+      "end_verse_key": "46:20",
+      "start_page": 503,
+      "end_page": 504,
+      "juz": 26
+    },
+    {
+      "id": 442,
+      "start_verse_id": 4531,
+      "start_verse_key": "46:21",
+      "end_verse_id": 4536,
+      "end_verse_key": "46:26",
+      "start_page": 505,
+      "end_page": 505,
+      "juz": 26
+    },
+    {
+      "id": 443,
+      "start_verse_id": 4537,
+      "start_verse_key": "46:27",
+      "end_verse_id": 4545,
+      "end_verse_key": "46:35",
+      "start_page": 505,
+      "end_page": 506,
+      "juz": 26
+    },
+    {
+      "id": 444,
+      "start_verse_id": 4546,
+      "start_verse_key": "47:1",
+      "end_verse_id": 4556,
+      "end_verse_key": "47:11",
+      "start_page": 507,
+      "end_page": 507,
+      "juz": 26
+    },
+    {
+      "id": 445,
+      "start_verse_id": 4557,
+      "start_verse_key": "47:12",
+      "end_verse_id": 4564,
+      "end_verse_key": "47:19",
+      "start_page": 508,
+      "end_page": 508,
+      "juz": 26
+    },
+    {
+      "id": 446,
+      "start_verse_id": 4565,
+      "start_verse_key": "47:20",
+      "end_verse_id": 4573,
+      "end_verse_key": "47:28",
+      "start_page": 509,
+      "end_page": 509,
+      "juz": 26
+    },
+    {
+      "id": 447,
+      "start_verse_id": 4574,
+      "start_verse_key": "47:29",
+      "end_verse_id": 4583,
+      "end_verse_key": "47:38",
+      "start_page": 509,
+      "end_page": 510,
+      "juz": 26
+    },
+    {
+      "id": 448,
+      "start_verse_id": 4584,
+      "start_verse_key": "48:1",
+      "end_verse_id": 4593,
+      "end_verse_key": "48:10",
+      "start_page": 511,
+      "end_page": 512,
+      "juz": 26
+    },
+    {
+      "id": 449,
+      "start_verse_id": 4594,
+      "start_verse_key": "48:11",
+      "end_verse_id": 4600,
+      "end_verse_key": "48:17",
+      "start_page": 512,
+      "end_page": 513,
+      "juz": 26
+    },
+    {
+      "id": 450,
+      "start_verse_id": 4601,
+      "start_verse_key": "48:18",
+      "end_verse_id": 4609,
+      "end_verse_key": "48:26",
+      "start_page": 513,
+      "end_page": 514,
+      "juz": 26
+    },
+    {
+      "id": 451,
+      "start_verse_id": 4610,
+      "start_verse_key": "48:27",
+      "end_verse_id": 4612,
+      "end_verse_key": "48:29",
+      "start_page": 514,
+      "end_page": 515,
+      "juz": 26
+    },
+    {
+      "id": 452,
+      "start_verse_id": 4613,
+      "start_verse_key": "49:1",
+      "end_verse_id": 4622,
+      "end_verse_key": "49:10",
+      "start_page": 515,
+      "end_page": 516,
+      "juz": 26
+    },
+    {
+      "id": 453,
+      "start_verse_id": 4623,
+      "start_verse_key": "49:11",
+      "end_verse_id": 4630,
+      "end_verse_key": "49:18",
+      "start_page": 516,
+      "end_page": 517,
+      "juz": 26
+    },
+    {
+      "id": 454,
+      "start_verse_id": 4631,
+      "start_verse_key": "50:1",
+      "end_verse_id": 4645,
+      "end_verse_key": "50:15",
+      "start_page": 518,
+      "end_page": 518,
+      "juz": 26
+    },
+    {
+      "id": 455,
+      "start_verse_id": 4646,
+      "start_verse_key": "50:16",
+      "end_verse_id": 4659,
+      "end_verse_key": "50:29",
+      "start_page": 519,
+      "end_page": 519,
+      "juz": 26
+    },
+    {
+      "id": 456,
+      "start_verse_id": 4660,
+      "start_verse_key": "50:30",
+      "end_verse_id": 4675,
+      "end_verse_key": "50:45",
+      "start_page": 519,
+      "end_page": 520,
+      "juz": 26
+    },
+    {
+      "id": 457,
+      "start_verse_id": 4676,
+      "start_verse_key": "51:1",
+      "end_verse_id": 4698,
+      "end_verse_key": "51:23",
+      "start_page": 520,
+      "end_page": 521,
+      "juz": 26
+    },
+    {
+      "id": 458,
+      "start_verse_id": 4699,
+      "start_verse_key": "51:24",
+      "end_verse_id": 4721,
+      "end_verse_key": "51:46",
+      "start_page": 521,
+      "end_page": 522,
+      "juz": 26
+    },
+    {
+      "id": 459,
+      "start_verse_id": 4722,
+      "start_verse_key": "51:47",
+      "end_verse_id": 4735,
+      "end_verse_key": "51:60",
+      "start_page": 522,
+      "end_page": 523,
+      "juz": 27
+    },
+    {
+      "id": 460,
+      "start_verse_id": 4736,
+      "start_verse_key": "52:1",
+      "end_verse_id": 4763,
+      "end_verse_key": "52:28",
+      "start_page": 523,
+      "end_page": 524,
+      "juz": 27
+    },
+    {
+      "id": 461,
+      "start_verse_id": 4764,
+      "start_verse_key": "52:29",
+      "end_verse_id": 4784,
+      "end_verse_key": "52:49",
+      "start_page": 524,
+      "end_page": 525,
+      "juz": 27
+    },
+    {
+      "id": 462,
+      "start_verse_id": 4785,
+      "start_verse_key": "53:1",
+      "end_verse_id": 4809,
+      "end_verse_key": "53:25",
+      "start_page": 526,
+      "end_page": 526,
+      "juz": 27
+    },
+    {
+      "id": 463,
+      "start_verse_id": 4810,
+      "start_verse_key": "53:26",
+      "end_verse_id": 4816,
+      "end_verse_key": "53:32",
+      "start_page": 526,
+      "end_page": 527,
+      "juz": 27
+    },
+    {
+      "id": 464,
+      "start_verse_id": 4817,
+      "start_verse_key": "53:33",
+      "end_verse_id": 4846,
+      "end_verse_key": "53:62",
+      "start_page": 527,
+      "end_page": 528,
+      "juz": 27
+    },
+    {
+      "id": 465,
+      "start_verse_id": 4847,
+      "start_verse_key": "54:1",
+      "end_verse_id": 4868,
+      "end_verse_key": "54:22",
+      "start_page": 528,
+      "end_page": 529,
+      "juz": 27
+    },
+    {
+      "id": 466,
+      "start_verse_id": 4869,
+      "start_verse_key": "54:23",
+      "end_verse_id": 4886,
+      "end_verse_key": "54:40",
+      "start_page": 529,
+      "end_page": 530,
+      "juz": 27
+    },
+    {
+      "id": 467,
+      "start_verse_id": 4887,
+      "start_verse_key": "54:41",
+      "end_verse_id": 4901,
+      "end_verse_key": "54:55",
+      "start_page": 530,
+      "end_page": 531,
+      "juz": 27
+    },
+    {
+      "id": 468,
+      "start_verse_id": 4902,
+      "start_verse_key": "55:1",
+      "end_verse_id": 4926,
+      "end_verse_key": "55:25",
+      "start_page": 531,
+      "end_page": 532,
+      "juz": 27
+    },
+    {
+      "id": 469,
+      "start_verse_id": 4927,
+      "start_verse_key": "55:26",
+      "end_verse_id": 4946,
+      "end_verse_key": "55:45",
+      "start_page": 532,
+      "end_page": 533,
+      "juz": 27
+    },
+    {
+      "id": 470,
+      "start_verse_id": 4947,
+      "start_verse_key": "55:46",
+      "end_verse_id": 4979,
+      "end_verse_key": "55:78",
+      "start_page": 533,
+      "end_page": 534,
+      "juz": 27
+    },
+    {
+      "id": 471,
+      "start_verse_id": 4980,
+      "start_verse_key": "56:1",
+      "end_verse_id": 5017,
+      "end_verse_key": "56:38",
+      "start_page": 534,
+      "end_page": 535,
+      "juz": 27
+    },
+    {
+      "id": 472,
+      "start_verse_id": 5018,
+      "start_verse_key": "56:39",
+      "end_verse_id": 5053,
+      "end_verse_key": "56:74",
+      "start_page": 535,
+      "end_page": 536,
+      "juz": 27
+    },
+    {
+      "id": 473,
+      "start_verse_id": 5054,
+      "start_verse_key": "56:75",
+      "end_verse_id": 5075,
+      "end_verse_key": "56:96",
+      "start_page": 536,
+      "end_page": 537,
+      "juz": 27
+    },
+    {
+      "id": 474,
+      "start_verse_id": 5076,
+      "start_verse_key": "57:1",
+      "end_verse_id": 5085,
+      "end_verse_key": "57:10",
+      "start_page": 537,
+      "end_page": 538,
+      "juz": 27
+    },
+    {
+      "id": 475,
+      "start_verse_id": 5086,
+      "start_verse_key": "57:11",
+      "end_verse_id": 5094,
+      "end_verse_key": "57:19",
+      "start_page": 538,
+      "end_page": 540,
+      "juz": 27
+    },
+    {
+      "id": 476,
+      "start_verse_id": 5095,
+      "start_verse_key": "57:20",
+      "end_verse_id": 5100,
+      "end_verse_key": "57:25",
+      "start_page": 540,
+      "end_page": 541,
+      "juz": 27
+    },
+    {
+      "id": 477,
+      "start_verse_id": 5101,
+      "start_verse_key": "57:26",
+      "end_verse_id": 5104,
+      "end_verse_key": "57:29",
+      "start_page": 541,
+      "end_page": 541,
+      "juz": 27
+    },
+    {
+      "id": 478,
+      "start_verse_id": 5105,
+      "start_verse_key": "58:1",
+      "end_verse_id": 5110,
+      "end_verse_key": "58:6",
+      "start_page": 542,
+      "end_page": 542,
+      "juz": 28
+    },
+    {
+      "id": 479,
+      "start_verse_id": 5111,
+      "start_verse_key": "58:7",
+      "end_verse_id": 5117,
+      "end_verse_key": "58:13",
+      "start_page": 543,
+      "end_page": 544,
+      "juz": 28
+    },
+    {
+      "id": 480,
+      "start_verse_id": 5118,
+      "start_verse_key": "58:14",
+      "end_verse_id": 5126,
+      "end_verse_key": "58:22",
+      "start_page": 544,
+      "end_page": 545,
+      "juz": 28
+    },
+    {
+      "id": 481,
+      "start_verse_id": 5127,
+      "start_verse_key": "59:1",
+      "end_verse_id": 5136,
+      "end_verse_key": "59:10",
+      "start_page": 545,
+      "end_page": 547,
+      "juz": 28
+    },
+    {
+      "id": 482,
+      "start_verse_id": 5137,
+      "start_verse_key": "59:11",
+      "end_verse_id": 5143,
+      "end_verse_key": "59:17",
+      "start_page": 547,
+      "end_page": 548,
+      "juz": 28
+    },
+    {
+      "id": 483,
+      "start_verse_id": 5144,
+      "start_verse_key": "59:18",
+      "end_verse_id": 5150,
+      "end_verse_key": "59:24",
+      "start_page": 548,
+      "end_page": 548,
+      "juz": 28
+    },
+    {
+      "id": 484,
+      "start_verse_id": 5151,
+      "start_verse_key": "60:1",
+      "end_verse_id": 5156,
+      "end_verse_key": "60:6",
+      "start_page": 549,
+      "end_page": 550,
+      "juz": 28
+    },
+    {
+      "id": 485,
+      "start_verse_id": 5157,
+      "start_verse_key": "60:7",
+      "end_verse_id": 5163,
+      "end_verse_key": "60:13",
+      "start_page": 550,
+      "end_page": 551,
+      "juz": 28
+    },
+    {
+      "id": 486,
+      "start_verse_id": 5164,
+      "start_verse_key": "61:1",
+      "end_verse_id": 5172,
+      "end_verse_key": "61:9",
+      "start_page": 551,
+      "end_page": 552,
+      "juz": 28
+    },
+    {
+      "id": 487,
+      "start_verse_id": 5173,
+      "start_verse_key": "61:10",
+      "end_verse_id": 5177,
+      "end_verse_key": "61:14",
+      "start_page": 552,
+      "end_page": 552,
+      "juz": 28
+    },
+    {
+      "id": 488,
+      "start_verse_id": 5178,
+      "start_verse_key": "62:1",
+      "end_verse_id": 5185,
+      "end_verse_key": "62:8",
+      "start_page": 553,
+      "end_page": 553,
+      "juz": 28
+    },
+    {
+      "id": 489,
+      "start_verse_id": 5186,
+      "start_verse_key": "62:9",
+      "end_verse_id": 5188,
+      "end_verse_key": "62:11",
+      "start_page": 554,
+      "end_page": 554,
+      "juz": 28
+    },
+    {
+      "id": 490,
+      "start_verse_id": 5189,
+      "start_verse_key": "63:1",
+      "end_verse_id": 5196,
+      "end_verse_key": "63:8",
+      "start_page": 554,
+      "end_page": 555,
+      "juz": 28
+    },
+    {
+      "id": 491,
+      "start_verse_id": 5197,
+      "start_verse_key": "63:9",
+      "end_verse_id": 5199,
+      "end_verse_key": "63:11",
+      "start_page": 555,
+      "end_page": 555,
+      "juz": 28
+    },
+    {
+      "id": 492,
+      "start_verse_id": 5200,
+      "start_verse_key": "64:1",
+      "end_verse_id": 5209,
+      "end_verse_key": "64:10",
+      "start_page": 556,
+      "end_page": 557,
+      "juz": 28
+    },
+    {
+      "id": 493,
+      "start_verse_id": 5210,
+      "start_verse_key": "64:11",
+      "end_verse_id": 5217,
+      "end_verse_key": "64:18",
+      "start_page": 557,
+      "end_page": 557,
+      "juz": 28
+    },
+    {
+      "id": 494,
+      "start_verse_id": 5218,
+      "start_verse_key": "65:1",
+      "end_verse_id": 5224,
+      "end_verse_key": "65:7",
+      "start_page": 558,
+      "end_page": 559,
+      "juz": 28
+    },
+    {
+      "id": 495,
+      "start_verse_id": 5225,
+      "start_verse_key": "65:8",
+      "end_verse_id": 5229,
+      "end_verse_key": "65:12",
+      "start_page": 559,
+      "end_page": 559,
+      "juz": 28
+    },
+    {
+      "id": 496,
+      "start_verse_id": 5230,
+      "start_verse_key": "66:1",
+      "end_verse_id": 5236,
+      "end_verse_key": "66:7",
+      "start_page": 560,
+      "end_page": 560,
+      "juz": 28
+    },
+    {
+      "id": 497,
+      "start_verse_id": 5237,
+      "start_verse_key": "66:8",
+      "end_verse_id": 5241,
+      "end_verse_key": "66:12",
+      "start_page": 561,
+      "end_page": 561,
+      "juz": 28
+    },
+    {
+      "id": 498,
+      "start_verse_id": 5242,
+      "start_verse_key": "67:1",
+      "end_verse_id": 5255,
+      "end_verse_key": "67:14",
+      "start_page": 562,
+      "end_page": 563,
+      "juz": 29
+    },
+    {
+      "id": 499,
+      "start_verse_id": 5256,
+      "start_verse_key": "67:15",
+      "end_verse_id": 5271,
+      "end_verse_key": "67:30",
+      "start_page": 563,
+      "end_page": 564,
+      "juz": 29
+    },
+    {
+      "id": 500,
+      "start_verse_id": 5272,
+      "start_verse_key": "68:1",
+      "end_verse_id": 5304,
+      "end_verse_key": "68:33",
+      "start_page": 564,
+      "end_page": 565,
+      "juz": 29
+    },
+    {
+      "id": 501,
+      "start_verse_id": 5305,
+      "start_verse_key": "68:34",
+      "end_verse_id": 5323,
+      "end_verse_key": "68:52",
+      "start_page": 565,
+      "end_page": 566,
+      "juz": 29
+    },
+    {
+      "id": 502,
+      "start_verse_id": 5324,
+      "start_verse_key": "69:1",
+      "end_verse_id": 5360,
+      "end_verse_key": "69:37",
+      "start_page": 566,
+      "end_page": 568,
+      "juz": 29
+    },
+    {
+      "id": 503,
+      "start_verse_id": 5361,
+      "start_verse_key": "69:38",
+      "end_verse_id": 5375,
+      "end_verse_key": "69:52",
+      "start_page": 568,
+      "end_page": 568,
+      "juz": 29
+    },
+    {
+      "id": 504,
+      "start_verse_id": 5376,
+      "start_verse_key": "70:1",
+      "end_verse_id": 5410,
+      "end_verse_key": "70:35",
+      "start_page": 568,
+      "end_page": 569,
+      "juz": 29
+    },
+    {
+      "id": 505,
+      "start_verse_id": 5411,
+      "start_verse_key": "70:36",
+      "end_verse_id": 5419,
+      "end_verse_key": "70:44",
+      "start_page": 569,
+      "end_page": 570,
+      "juz": 29
+    },
+    {
+      "id": 506,
+      "start_verse_id": 5420,
+      "start_verse_key": "71:1",
+      "end_verse_id": 5439,
+      "end_verse_key": "71:20",
+      "start_page": 570,
+      "end_page": 571,
+      "juz": 29
+    },
+    {
+      "id": 507,
+      "start_verse_id": 5440,
+      "start_verse_key": "71:21",
+      "end_verse_id": 5447,
+      "end_verse_key": "71:28",
+      "start_page": 571,
+      "end_page": 571,
+      "juz": 29
+    },
+    {
+      "id": 508,
+      "start_verse_id": 5448,
+      "start_verse_key": "72:1",
+      "end_verse_id": 5466,
+      "end_verse_key": "72:19",
+      "start_page": 572,
+      "end_page": 573,
+      "juz": 29
+    },
+    {
+      "id": 509,
+      "start_verse_id": 5467,
+      "start_verse_key": "72:20",
+      "end_verse_id": 5475,
+      "end_verse_key": "72:28",
+      "start_page": 573,
+      "end_page": 573,
+      "juz": 29
+    },
+    {
+      "id": 510,
+      "start_verse_id": 5476,
+      "start_verse_key": "73:1",
+      "end_verse_id": 5494,
+      "end_verse_key": "73:19",
+      "start_page": 574,
+      "end_page": 574,
+      "juz": 29
+    },
+    {
+      "id": 511,
+      "start_verse_id": 5495,
+      "start_verse_key": "73:20",
+      "end_verse_id": 5495,
+      "end_verse_key": "73:20",
+      "start_page": 575,
+      "end_page": 575,
+      "juz": 29
+    },
+    {
+      "id": 512,
+      "start_verse_id": 5496,
+      "start_verse_key": "74:1",
+      "end_verse_id": 5526,
+      "end_verse_key": "74:31",
+      "start_page": 575,
+      "end_page": 576,
+      "juz": 29
+    },
+    {
+      "id": 513,
+      "start_verse_id": 5527,
+      "start_verse_key": "74:32",
+      "end_verse_id": 5551,
+      "end_verse_key": "74:56",
+      "start_page": 576,
+      "end_page": 577,
+      "juz": 29
+    },
+    {
+      "id": 514,
+      "start_verse_id": 5552,
+      "start_verse_key": "75:1",
+      "end_verse_id": 5581,
+      "end_verse_key": "75:30",
+      "start_page": 577,
+      "end_page": 578,
+      "juz": 29
+    },
+    {
+      "id": 515,
+      "start_verse_id": 5582,
+      "start_verse_key": "75:31",
+      "end_verse_id": 5591,
+      "end_verse_key": "75:40",
+      "start_page": 578,
+      "end_page": 578,
+      "juz": 29
+    },
+    {
+      "id": 516,
+      "start_verse_id": 5592,
+      "start_verse_key": "76:1",
+      "end_verse_id": 5613,
+      "end_verse_key": "76:22",
+      "start_page": 578,
+      "end_page": 579,
+      "juz": 29
+    },
+    {
+      "id": 517,
+      "start_verse_id": 5614,
+      "start_verse_key": "76:23",
+      "end_verse_id": 5622,
+      "end_verse_key": "76:31",
+      "start_page": 579,
+      "end_page": 580,
+      "juz": 29
+    },
+    {
+      "id": 518,
+      "start_verse_id": 5623,
+      "start_verse_key": "77:1",
+      "end_verse_id": 5662,
+      "end_verse_key": "77:40",
+      "start_page": 580,
+      "end_page": 581,
+      "juz": 29
+    },
+    {
+      "id": 519,
+      "start_verse_id": 5663,
+      "start_verse_key": "77:41",
+      "end_verse_id": 5672,
+      "end_verse_key": "77:50",
+      "start_page": 581,
+      "end_page": 581,
+      "juz": 29
+    },
+    {
+      "id": 520,
+      "start_verse_id": 5673,
+      "start_verse_key": "78:1",
+      "end_verse_id": 5702,
+      "end_verse_key": "78:30",
+      "start_page": 582,
+      "end_page": 582,
+      "juz": 30
+    },
+    {
+      "id": 521,
+      "start_verse_id": 5703,
+      "start_verse_key": "78:31",
+      "end_verse_id": 5712,
+      "end_verse_key": "78:40",
+      "start_page": 583,
+      "end_page": 583,
+      "juz": 30
+    },
+    {
+      "id": 522,
+      "start_verse_id": 5713,
+      "start_verse_key": "79:1",
+      "end_verse_id": 5738,
+      "end_verse_key": "79:26",
+      "start_page": 583,
+      "end_page": 584,
+      "juz": 30
+    },
+    {
+      "id": 523,
+      "start_verse_id": 5739,
+      "start_verse_key": "79:27",
+      "end_verse_id": 5758,
+      "end_verse_key": "79:46",
+      "start_page": 584,
+      "end_page": 584,
+      "juz": 30
+    },
+    {
+      "id": 524,
+      "start_verse_id": 5759,
+      "start_verse_key": "80:1",
+      "end_verse_id": 5800,
+      "end_verse_key": "80:42",
+      "start_page": 585,
+      "end_page": 585,
+      "juz": 30
+    },
+    {
+      "id": 525,
+      "start_verse_id": 5801,
+      "start_verse_key": "81:1",
+      "end_verse_id": 5829,
+      "end_verse_key": "81:29",
+      "start_page": 586,
+      "end_page": 586,
+      "juz": 30
+    },
+    {
+      "id": 526,
+      "start_verse_id": 5830,
+      "start_verse_key": "82:1",
+      "end_verse_id": 5848,
+      "end_verse_key": "82:19",
+      "start_page": 587,
+      "end_page": 587,
+      "juz": 30
+    },
+    {
+      "id": 527,
+      "start_verse_id": 5849,
+      "start_verse_key": "83:1",
+      "end_verse_id": 5884,
+      "end_verse_key": "83:36",
+      "start_page": 587,
+      "end_page": 589,
+      "juz": 30
+    },
+    {
+      "id": 528,
+      "start_verse_id": 5885,
+      "start_verse_key": "84:1",
+      "end_verse_id": 5909,
+      "end_verse_key": "84:25",
+      "start_page": 589,
+      "end_page": 589,
+      "juz": 30
+    },
+    {
+      "id": 529,
+      "start_verse_id": 5910,
+      "start_verse_key": "85:1",
+      "end_verse_id": 5931,
+      "end_verse_key": "85:22",
+      "start_page": 590,
+      "end_page": 590,
+      "juz": 30
+    },
+    {
+      "id": 530,
+      "start_verse_id": 5932,
+      "start_verse_key": "86:1",
+      "end_verse_id": 5948,
+      "end_verse_key": "86:17",
+      "start_page": 591,
+      "end_page": 591,
+      "juz": 30
+    },
+    {
+      "id": 531,
+      "start_verse_id": 5949,
+      "start_verse_key": "87:1",
+      "end_verse_id": 5967,
+      "end_verse_key": "87:19",
+      "start_page": 591,
+      "end_page": 592,
+      "juz": 30
+    },
+    {
+      "id": 532,
+      "start_verse_id": 5968,
+      "start_verse_key": "88:1",
+      "end_verse_id": 5993,
+      "end_verse_key": "88:26",
+      "start_page": 592,
+      "end_page": 592,
+      "juz": 30
+    },
+    {
+      "id": 533,
+      "start_verse_id": 5994,
+      "start_verse_key": "89:1",
+      "end_verse_id": 6023,
+      "end_verse_key": "89:30",
+      "start_page": 593,
+      "end_page": 594,
+      "juz": 30
+    },
+    {
+      "id": 534,
+      "start_verse_id": 6024,
+      "start_verse_key": "90:1",
+      "end_verse_id": 6043,
+      "end_verse_key": "90:20",
+      "start_page": 594,
+      "end_page": 594,
+      "juz": 30
+    },
+    {
+      "id": 535,
+      "start_verse_id": 6044,
+      "start_verse_key": "91:1",
+      "end_verse_id": 6058,
+      "end_verse_key": "91:15",
+      "start_page": 595,
+      "end_page": 595,
+      "juz": 30
+    },
+    {
+      "id": 536,
+      "start_verse_id": 6059,
+      "start_verse_key": "92:1",
+      "end_verse_id": 6079,
+      "end_verse_key": "92:21",
+      "start_page": 595,
+      "end_page": 596,
+      "juz": 30
+    },
+    {
+      "id": 537,
+      "start_verse_id": 6080,
+      "start_verse_key": "93:1",
+      "end_verse_id": 6090,
+      "end_verse_key": "93:11",
+      "start_page": 596,
+      "end_page": 596,
+      "juz": 30
+    },
+    {
+      "id": 538,
+      "start_verse_id": 6091,
+      "start_verse_key": "94:1",
+      "end_verse_id": 6098,
+      "end_verse_key": "94:8",
+      "start_page": 596,
+      "end_page": 596,
+      "juz": 30
+    },
+    {
+      "id": 539,
+      "start_verse_id": 6099,
+      "start_verse_key": "95:1",
+      "end_verse_id": 6106,
+      "end_verse_key": "95:8",
+      "start_page": 597,
+      "end_page": 597,
+      "juz": 30
+    },
+    {
+      "id": 540,
+      "start_verse_id": 6107,
+      "start_verse_key": "96:1",
+      "end_verse_id": 6125,
+      "end_verse_key": "96:19",
+      "start_page": 597,
+      "end_page": 597,
+      "juz": 30
+    },
+    {
+      "id": 541,
+      "start_verse_id": 6126,
+      "start_verse_key": "97:1",
+      "end_verse_id": 6130,
+      "end_verse_key": "97:5",
+      "start_page": 598,
+      "end_page": 598,
+      "juz": 30
+    },
+    {
+      "id": 542,
+      "start_verse_id": 6131,
+      "start_verse_key": "98:1",
+      "end_verse_id": 6138,
+      "end_verse_key": "98:8",
+      "start_page": 598,
+      "end_page": 599,
+      "juz": 30
+    },
+    {
+      "id": 543,
+      "start_verse_id": 6139,
+      "start_verse_key": "99:1",
+      "end_verse_id": 6146,
+      "end_verse_key": "99:8",
+      "start_page": 599,
+      "end_page": 599,
+      "juz": 30
+    },
+    {
+      "id": 544,
+      "start_verse_id": 6147,
+      "start_verse_key": "100:1",
+      "end_verse_id": 6157,
+      "end_verse_key": "100:11",
+      "start_page": 599,
+      "end_page": 600,
+      "juz": 30
+    },
+    {
+      "id": 545,
+      "start_verse_id": 6158,
+      "start_verse_key": "101:1",
+      "end_verse_id": 6168,
+      "end_verse_key": "101:11",
+      "start_page": 600,
+      "end_page": 600,
+      "juz": 30
+    },
+    {
+      "id": 546,
+      "start_verse_id": 6169,
+      "start_verse_key": "102:1",
+      "end_verse_id": 6176,
+      "end_verse_key": "102:8",
+      "start_page": 600,
+      "end_page": 600,
+      "juz": 30
+    },
+    {
+      "id": 547,
+      "start_verse_id": 6177,
+      "start_verse_key": "103:1",
+      "end_verse_id": 6179,
+      "end_verse_key": "103:3",
+      "start_page": 601,
+      "end_page": 601,
+      "juz": 30
+    },
+    {
+      "id": 548,
+      "start_verse_id": 6180,
+      "start_verse_key": "104:1",
+      "end_verse_id": 6188,
+      "end_verse_key": "104:9",
+      "start_page": 601,
+      "end_page": 601,
+      "juz": 30
+    },
+    {
+      "id": 549,
+      "start_verse_id": 6189,
+      "start_verse_key": "105:1",
+      "end_verse_id": 6193,
+      "end_verse_key": "105:5",
+      "start_page": 601,
+      "end_page": 601,
+      "juz": 30
+    },
+    {
+      "id": 550,
+      "start_verse_id": 6194,
+      "start_verse_key": "106:1",
+      "end_verse_id": 6197,
+      "end_verse_key": "106:4",
+      "start_page": 602,
+      "end_page": 602,
+      "juz": 30
+    },
+    {
+      "id": 551,
+      "start_verse_id": 6198,
+      "start_verse_key": "107:1",
+      "end_verse_id": 6204,
+      "end_verse_key": "107:7",
+      "start_page": 602,
+      "end_page": 602,
+      "juz": 30
+    },
+    {
+      "id": 552,
+      "start_verse_id": 6205,
+      "start_verse_key": "108:1",
+      "end_verse_id": 6207,
+      "end_verse_key": "108:3",
+      "start_page": 602,
+      "end_page": 602,
+      "juz": 30
+    },
+    {
+      "id": 553,
+      "start_verse_id": 6208,
+      "start_verse_key": "109:1",
+      "end_verse_id": 6213,
+      "end_verse_key": "109:6",
+      "start_page": 603,
+      "end_page": 603,
+      "juz": 30
+    },
+    {
+      "id": 554,
+      "start_verse_id": 6214,
+      "start_verse_key": "110:1",
+      "end_verse_id": 6216,
+      "end_verse_key": "110:3",
+      "start_page": 603,
+      "end_page": 603,
+      "juz": 30
+    },
+    {
+      "id": 555,
+      "start_verse_id": 6217,
+      "start_verse_key": "111:1",
+      "end_verse_id": 6221,
+      "end_verse_key": "111:5",
+      "start_page": 603,
+      "end_page": 603,
+      "juz": 30
+    },
+    {
+      "id": 556,
+      "start_verse_id": 6222,
+      "start_verse_key": "112:1",
+      "end_verse_id": 6225,
+      "end_verse_key": "112:4",
+      "start_page": 604,
+      "end_page": 604,
+      "juz": 30
+    },
+    {
+      "id": 557,
+      "start_verse_id": 6226,
+      "start_verse_key": "113:1",
+      "end_verse_id": 6230,
+      "end_verse_key": "113:5",
+      "start_page": 604,
+      "end_page": 604,
+      "juz": 30
+    },
+    {
+      "id": 558,
+      "start_verse_id": 6231,
+      "start_verse_key": "114:1",
+      "end_verse_id": 6236,
+      "end_verse_key": "114:6",
+      "start_page": 604,
+      "end_page": 604,
+      "juz": 30
+    }
+  ]
+}

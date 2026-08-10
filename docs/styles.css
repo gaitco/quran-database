@@ -8,6 +8,22 @@
   --background: #e9eee9;
 }
 
+@font-face {
+  font-family: "QPC Hafs";
+  src: url("fonts/UthmanicHafs_V22.ttf") format("truetype");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "QPC Nastaleeq";
+  src: url("fonts/KFGQPCNastaleeq-Regular.ttf") format("truetype");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
 * { box-sizing: border-box; }
 
 body {
@@ -37,7 +53,7 @@ body {
 .brand h1 { font-size: 1rem; }
 .brand p { color: #dfcf95; font-size: .8rem; }
 
-nav { display: flex; align-items: center; gap: .5rem; direction: rtl; }
+nav { display: flex; align-items: center; gap: .5rem; direction: ltr; }
 button, select {
   min-height: 2.4rem;
   padding: .35rem .7rem;
@@ -66,19 +82,23 @@ main { padding: clamp(1rem, 3vw, 2.5rem); }
   box-shadow: 0 .5rem 2rem #26392f1f;
 }
 
+.page-header {
+  display: grid;
+  grid-template-columns: minmax(4rem, 1fr) minmax(10rem, 3fr) minmax(4rem, 1fr);
+  align-items: center;
+  direction: ltr;
+  border-block: 1px solid var(--border);
+}
+
 .page-meta {
-  position: absolute;
-  top: 1.1rem;
   display: grid;
   min-width: 4rem;
   text-align: center;
   color: var(--accent);
-  font-family: "KFGQPC Uthmanic Script HAFS", "Noto Naskh Arabic", serif;
+  font-family: "QPC Hafs", "Noto Naskh Arabic", serif;
 }
 .page-meta span { font-size: .7rem; }
 .page-meta strong { font-size: 1rem; }
-.page-meta-right { right: .75rem; }
-.page-meta-left { left: .75rem; }
 
 .surah-heading {
   margin: 1rem 0 .75rem;
@@ -86,31 +106,70 @@ main { padding: clamp(1rem, 3vw, 2.5rem); }
   border-block: 1px solid var(--border);
   text-align: center;
   color: var(--accent);
-  font-family: "KFGQPC Uthmanic Script HAFS", "Noto Naskh Arabic", "Traditional Arabic", serif;
+  font-family: "QPC Hafs", "Noto Naskh Arabic", "Traditional Arabic", serif;
   font-size: 1.65rem;
+  scroll-margin-top: 5rem;
+}
+
+.page-header .surah-heading {
+  margin: 0;
+  border: 0;
+  direction: rtl;
 }
 
 .bismillah-mark {
   display: inline-block;
+  width: .62em;
+  height: .62em;
   margin-inline-start: .12em;
+  border: .08em double currentColor;
+  border-radius: 50%;
   color: var(--accent);
-  font-size: 1em;
+  vertical-align: middle;
 }
 
 .ayah-flow {
   margin: 0;
   text-align: justify;
   text-align-last: center;
-  font-family: "KFGQPC Uthmanic Script HAFS", "Noto Naskh Arabic", "Traditional Arabic", "Amiri", serif;
-  font-size: clamp(1.65rem, 4.2vw, 2.35rem);
-  line-height: 2.15;
+  font-size: clamp(1.75rem, 4.5vw, 2.5rem);
+  line-height: 2.35;
+  font-synthesis: none;
+}
+
+.ruku-marker-layer {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.ruku-marker {
+  position: absolute;
+  right: 0;
+  width: clamp(1.5rem, 3vw, 2.25rem);
+  transform: translateY(-50%);
+  border-block: 1px solid var(--border);
+  color: var(--accent);
+  font-family: "QPC Hafs", "Noto Naskh Arabic", serif;
+  font-size: .58em;
+  line-height: 1.35;
+  text-align: center;
+}
+
+.mushaf-page[data-script="uthmani"] .ayah-flow {
+  font-family: "QPC Hafs", "Noto Naskh Arabic", "Traditional Arabic", "Amiri", serif;
+}
+
+.mushaf-page[data-script="nastaleeq"] .ayah-flow {
+  font-family: "QPC Nastaleeq", "Noto Nastaliq Urdu", serif;
 }
 
 .ayah-number {
   display: inline-block;
   margin-inline: .15em;
   color: var(--accent);
-  font-family: "KFGQPC Uthmanic Script HAFS", "Noto Naskh Arabic", serif;
+  font-family: "QPC Hafs", "Noto Naskh Arabic", serif;
   font-size: .62em;
   vertical-align: middle;
 }
@@ -128,5 +187,6 @@ main { padding: clamp(1rem, 3vw, 2.5rem); }
   nav label { position: absolute; width: 1px; height: 1px; overflow: hidden; }
   main { padding: .5rem; }
   .mushaf-page { min-height: calc(100vh - 8rem); padding: 2.25rem 1rem 1.25rem; }
-  .page-meta { top: .4rem; }
+  .page-header { grid-template-columns: 4rem 1fr 4rem; }
+  .ruku-marker { right: 0; width: .8rem; }
 }

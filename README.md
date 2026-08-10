@@ -99,7 +99,8 @@ Ayah-by-ayah translations (835,624 rows — 6,236 ayahs × 134 editions).
 ### Web reader
 
 The dependency-free reader in `docs/` displays the complete Arabic Quran using
-the database's 604-page mapping. Start it locally with PHP:
+the database's 604-page mapping. It includes Uthmani and locally hosted
+Indo-Pak Nastaleeq display modes. Start it locally with PHP:
 
 ```bash
 php -S localhost:8000 -t docs
@@ -110,8 +111,14 @@ from the bundled SQLite archive and run its checks with:
 
 ```bash
 python3 scripts/export_web_data.py
+python3 scripts/download_nastaleeq.py
+python3 scripts/import_nastaleeq.py
 python3 -m unittest discover -s tests -v
 ```
+
+The Nastaleeq font and matching script provenance are documented in
+`docs/fonts/README.md` and `docs/data/README.md`. The alternate script is kept
+separate and never rewrites the source database.
 
 The deployment workflow publishes `docs/` to GitHub Pages after changes reach
 `main`. Repository maintainers must select **GitHub Actions** as the Pages source

@@ -9,27 +9,40 @@
 </head>
 <body>
   <header class="toolbar">
-    <div class="brand">
-      <span class="brand-mark" aria-hidden="true">۞</span>
-      <div><h1>القرآن الكريم</h1><p>قارئ الصفحات</p></div>
-    </div>
     <nav aria-label="Page navigation">
-      <button id="previous" type="button" aria-label="Previous page">Previous</button>
+      <label for="surah-select">Surah</label>
+      <select id="surah-select" aria-label="Choose surah"></select>
+      <label for="juz-select">Para</label>
+      <select id="juz-select" aria-label="Choose para"></select>
+      <button id="next" type="button" aria-label="Next page">Next</button>
       <label for="page-select">Page</label>
       <select id="page-select" aria-label="Choose page"></select>
-      <button id="next" type="button" aria-label="Next page">Next</button>
+      <button id="previous" type="button" aria-label="Previous page">Previous</button>
+      <label for="script-select">Script</label>
+      <select id="script-select" aria-label="Choose Quran script">
+        <option value="uthmani">Uthmani</option>
+        <option value="nastaleeq">Indo-Pak Nastaleeq</option>
+      </select>
     </nav>
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">۞</span>
+      <div><h1>القرآن الكريم</h1></div>
+    </div>
   </header>
 
   <main>
     <p id="status" role="status">جارٍ تحميل القرآن الكريم…</p>
     <article id="mushaf-page" class="mushaf-page" lang="ar" dir="rtl" hidden>
-      <aside class="page-meta page-meta-right" aria-label="رقم الجزء">
-        <span>الجزء</span><strong id="juz-number"></strong>
-      </aside>
-      <aside class="page-meta page-meta-left" aria-label="رقم ربع الحزب">
-        <span>ربع الحزب</span><strong id="rub-number"></strong>
-      </aside>
+      <div id="ruku-markers" class="ruku-marker-layer" aria-hidden="true"></div>
+      <header class="page-header">
+        <aside class="page-meta" aria-label="رقم الحزب">
+          <span>الحزب</span><strong id="hizb-number"></strong>
+        </aside>
+        <h2 id="page-surah-name" class="surah-heading"></h2>
+        <aside class="page-meta" aria-label="رقم الجزء">
+          <span>الجزء</span><strong id="juz-number"></strong>
+        </aside>
+      </header>
       <div id="page-content"></div>
       <footer id="page-number" class="page-number"></footer>
     </article>
