@@ -45,7 +45,7 @@ jobs:
           python-version: ${{ matrix.python-version }}
 
       - name: Compile Python sources
-        run: python -m compileall -q convert_to_sqlite.py convert_to_postgres.py scripts/checksum_text.py scripts/export_schema.py scripts/export_rukus.py
+        run: python -m compileall -q convert_to_sqlite.py convert_to_postgres.py scripts/checksum_text.py scripts/export_schema.py scripts/export_rukus.py scripts/export_web_data.py
 
       - name: Run tests
         run: python -m unittest discover -s tests -v

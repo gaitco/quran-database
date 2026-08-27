@@ -15,7 +15,7 @@ A comprehensive Quran database for MySQL, PostgreSQL, and SQLite containing the 
 | `convert_to_postgres.py` | Python script | — | Imports `quran.sql` into PostgreSQL |
 | `manifest/quran-arabic.manifest.json` | SHA-256 manifest | ~490 KB | Verse-level checksums for the Arabic text |
 | `schema/<database>/schema.sql` | SQL | — | Generated, readable schema reference per database |
-| `scripts/` | Python | — | Text verification, schema export, and Ruku data export tools |
+| `scripts/` | Python | — | Text verification and reproducible data export tools |
 | `tests/` | Python | — | Unit tests for the converters and tooling |
 | `docs/` | Markdown | — | [architecture](docs/architecture.md), [provenance](docs/provenance.md) |
 
@@ -157,6 +157,20 @@ boundaries stay aligned with the imported text.
 ## Setup
 
 ### Project commands
+
+Generate compact JSON for a static web application directly from the bundled
+SQLite distribution:
+
+```bash
+python3 scripts/export_web_data.py
+```
+
+The ignored output is written to `output/quran-web.json`. It contains Surah
+metadata and all 6,236 ayahs grouped by the 604-page mapping. The exporter
+checks every ayah against the tracked text manifest and records its Quran root
+hash in the output; it does not add a second tracked copy of the Quran text.
+See [`docs/web-export.md`](docs/web-export.md) for the format and validation
+contract.
 
 This repository uses [`just`](https://just.systems/) to provide a small set of consistent project commands. After installing `just`, run:
 

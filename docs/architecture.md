@@ -51,6 +51,8 @@ rather than assumed to be byte-for-byte or DDL-equivalent.
 | `data/rukus.json` | Supplemental Ruku boundary dataset (Quran Foundation convention) |
 | `data/README.md` | Format, provenance, and licensing notes for supplemental datasets |
 | `scripts/export_rukus.py` | Fetches and regenerates `data/rukus.json` |
+| `scripts/export_web_data.py` | Generates checksum-tied, compact web JSON from SQLite |
+| `docs/web-export.md` | Documents the generated web JSON format and integrity checks |
 | `tests/` | Unit tests for the converters and the checksum tooling |
 | `docs/` | Design and operational documentation |
 | `output/` | Ignored location reserved for generated output |
